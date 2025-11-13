@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Are there jobs available on campus for students?",
+    "answer": "Yes. Students can find on-campus jobs through Handshake and get help from the Career Center.",
+    "topic": "Careers",
+    "link": "https://careers.umbc.edu/handshake/"
+  },
+  {
+    "question": "How long does it take to get to Baltimore and Washington DC?",
+    "answer": "UMBC is about 15 minutes from Baltimore and 40 minutes from Washington DC.",
+    "topic": "Campus",
+    "link": "https://umbc.edu/about/visit/directions/"
+  },
+  {
+    "question": "Is transit available?",
+    "answer": "Yes. UMBC offers free shuttle service to nearby areas.",
+    "topic": "Campus",
+    "link": "https://transit.umbc.edu/about/"
+  },
+  {
+    "question": "Is UMBC safe?",
+    "answer": "Yes. UMBC is in a safe suburban area, and UMBC Police offer an escort service.",
+    "topic": "Campus",
+    "link": "https://police.umbc.edu/services-resources/safety-escort-service/"
+  },
+  {
+    "question": "Where should I live and how can I find a roommate?",
+    "answer": "Student Affairs helps with housing and roommate searches. Students can also connect through Unibuddy.",
+    "topic": "Housing",
+    "link": "https://retrieversupport.umbc.edu/off-campus-housing/"
+  },
+  {
+    "question": "What can I do on campus?",
+    "answer": "Join clubs, attend events, play sports, visit CADVC, or participate in RAC activities.",
+    "topic": "Campus",
+    "link": "https://campuslife.umbc.edu/student-organizations/"
+  },
+  {
+    "question": "Are there shops or things to do near campus?",
+    "answer": "Yes. Options include Arundel Mills, OCA Mocha, Inner Harbor, museums, and local shopping.",
+    "topic": "Campus",
+    "link": "https://isss.umbc.edu/resources/fun-things-to-do/"
+  },
+  {
+    "question": "How can I meet people?",
+    "answer": "Join student groups, attend Involvement Fest, join TAP, or attend departmental events.",
+    "topic": "Campus",
+    "link": "https://campuslife.umbc.edu/student-organizations/"
+  },
+  {
+    "question": "Are there any prayer spaces on campus?",
+    "answer": "Yes. UMBC has the Gathering Space and multiple reflection and prayer rooms.",
+    "topic": "Campus",
+    "link": "https://campuslife.umbc.edu/belonging/reflection-prayer-and-meditation-spaces/"
+  }
+]
