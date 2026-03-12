@@ -26,11 +26,4 @@ The project is built with **Flask**, **FAISS**, and **Sentence Transformers**.
 
 ---
 
-## Getting Started
 
-Follow these steps to set up and run the chatbot locally:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/mi31417/Group2-Chatbot-Application.git
-cd Group2-Chatbot-Application
