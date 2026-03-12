@@ -1,0 +1,7 @@
+flask
+sentence-transformers
+faiss-cpu
+transformers
+torch
+requests
+python-dotenv

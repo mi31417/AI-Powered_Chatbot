@@ -1,0 +1,3095 @@
+[
+  {
+    "question": "How can I register for courses?",
+    "answer": "Log into myUMBC, go to 'Student Services', and select 'Register for Courses'.",
+    "topic": "Academics",
+    "link": "https://registrar.umbc.edu/services/registration/"
+  },
+  {
+    "question": "Where can I find career services?",
+    "answer": "Visit the Career Center on campus or check their website for resources and appointments.",
+    "topic": "Careers",
+    "link": "https://careers.umbc.edu/"
+  },
+  {
+    "question": "Where can I find dining options on campus?",
+    "answer": "Visit the UMBC dining website for locations, menus, and hours of operation.",
+    "topic": "Campus",
+    "link": "https://umbc.edu/undergraduate/life-at-umbc/where-youll-eat/"
+  },
+  {
+    "question": "How do meal plans work at UMBC?",
+    "answer": "Check the Retriever Card Center website for details on meal plans and how to manage them.",
+    "topic": "Campus",
+    "link": "https://campuscard.umbc.edu/meal-plans-2/meal-plans/"
+  },
+  {
+    "question": "How do I access UMBC job and internship listings?",
+    "answer": "Use Handshake, UMBC's portal for jobs and internships for students and alumni.",
+    "topic": "Careers",
+    "link": "https://careers.umbc.edu/handshake/"
+  },
+  {
+    "question": "Are there jobs available on campus for students?",
+    "answer": "Yes. Students can find on-campus jobs through Handshake and get help from the Career Center.",
+    "topic": "Careers",
+    "link": "https://careers.umbc.edu/handshake/"
+  },
+  {
+    "question": "How long does it take to get to Baltimore and Washington DC?",
+    "answer": "UMBC is about 15 minutes from Baltimore and 40 minutes from Washington DC.",
+    "topic": "Campus",
+    "link": "https://umbc.edu/about/visit/directions/"
+  },
+  {
+    "question": "Is transit available?",
+    "answer": "Yes. UMBC offers free shuttle service to nearby areas.",
+    "topic": "Campus",
+    "link": "https://transit.umbc.edu/about/"
+  },
+  {
+    "question": "Is UMBC safe?",
+    "answer": "Yes. UMBC is in a safe suburban area, and UMBC Police offer an escort service.",
+    "topic": "Campus",
+    "link": "https://police.umbc.edu/services-resources/safety-escort-service/"
+  },
+  {
+    "question": "Where should I live and how can I find a roommate?",
+    "answer": "Student Affairs helps with housing and roommate searches. Students can also connect through Unibuddy.",
+    "topic": "Housing",
+    "link": "https://retrieversupport.umbc.edu/off-campus-housing/"
+  },
+  {
+    "question": "What can I do on campus?",
+    "answer": "Join clubs, attend events, play sports, visit CADVC, or participate in RAC activities.",
+    "topic": "Campus",
+    "link": "https://campuslife.umbc.edu/student-organizations/"
+  },
+  {
+    "question": "Are there shops or things to do near campus?",
+    "answer": "Yes. Options include Arundel Mills, OCA Mocha, Inner Harbor, museums, and local shopping.",
+    "topic": "Campus",
+    "link": "https://isss.umbc.edu/resources/fun-things-to-do/"
+  },
+  {
+    "question": "How can I meet people?",
+    "answer": "Join student groups, attend Involvement Fest, join TAP, or attend departmental events.",
+    "topic": "Campus",
+    "link": "https://campuslife.umbc.edu/student-organizations/"
+  },
+  {
+    "question": "Are there any prayer spaces on campus?",
+    "answer": "Yes. UMBC has the Gathering Space and multiple reflection and prayer rooms.",
+    "topic": "Campus",
+    "link": "https://campuslife.umbc.edu/belonging/reflection-prayer-and-meditation-spaces/"
+  },
+  
+  {
+    "question": "Where is UMBC located?",
+    "answer": "UMBC is located in the Catonsville area of Maryland, close to Baltimore. It sits in a suburban community with easy access to both nature and city life, making it convenient for students who want a quieter campus environment while still being near major cities.",
+    "topic": "Campus",
+    "link": "https://umbc.edu/about/"
+  },
+  {
+    "question": "How far is UMBC from Baltimore and Washington, DC?",
+    "answer": "UMBC is about 15 minutes from downtown Baltimore and around 40 minutes from Washington, DC. This makes it convenient for students who want access to internships, travel options, or entertainment in major cities.",
+    "topic": "Campus",
+    "link": ""
+  },
+  {
+    "question": "What is student life like around UMBC?",
+    "answer": "Student life around UMBC includes a mix of campus events, clubs, sports, and local community hubs. Students frequently meet up at places like OCA Mocha, the RAC, and other campus activity centers.",
+    "topic": "Campus Life",
+    "link": "https://campuslife.umbc.edu/student-organizations/"
+  },
+  {
+    "question": "What are the main off-campus housing options near UMBC?",
+    "answer": "Popular off-campus housing options for UMBC students include The Day Village Townhomes and The Haven Apartments. These are known among students for being affordable, student-friendly, and close to campus. Many students find housing and roommates through UMBC community groups and social platforms.",
+    "topic": "Housing",
+    "link": "https://retrieversupport.umbc.edu/off-campus-housing/"
+  },
+  {
+    "question": "How do students typically find roommates at UMBC?",
+    "answer": "Students commonly find roommates through UMBC housing groups, Facebook communities, WhatsApp groups, and university resources such as Unibuddy and the Off-Campus Housing website.",
+    "topic": "Housing",
+    "link": ""
+  },
+  {
+    "question": "What on-campus housing options does UMBC offer?",
+    "answer": "UMBC offers traditional residence halls, suites, and apartment-style housing based on the student’s year and preferences. Housing is assigned on a first-come, first-served basis, and freshmen typically get priority for residence halls.",
+    "topic": "Housing",
+    "link": "https://reslife.umbc.edu/"
+  },
+  {
+    "question": "Is UMBC considered a safe campus?",
+    "answer": "Yes, UMBC is considered a very safe campus. The UMBC Police Department operates 24/7, and the campus environment is generally calm, well-lit, and monitored. Many students report feeling very safe walking around campus.",
+    "topic": "Safety",
+    "link": "https://police.umbc.edu/"
+  },
+  {
+    "question": "Does UMBC offer a safety escort service?",
+    "answer": "Yes, UMBC Police offer a free escort service that helps students travel safely across campus, especially during late evenings. This service gives many students peace of mind.",
+    "topic": "Safety",
+    "link": "https://police.umbc.edu/services-resources/safety-escort-service/"
+  },
+  {
+    "question": "What transportation options are available near UMBC?",
+    "answer": "UMBC Transit provides free shuttle services that run to nearby communities such as Catonsville, Arbutus, and Halethorpe MARC Station. The shuttles are reliable and widely used by students without cars.",
+    "topic": "Transit",
+    "link": "https://transit.umbc.edu/"
+  },
+  {
+    "question": "Is public transit available for UMBC students without cars?",
+    "answer": "Yes. Students without personal vehicles rely heavily on UMBC Transit, which provides free access to buses and shuttles that connect to grocery stores, MARC train stations, and nearby residential areas.",
+    "topic": "Transit",
+    "link": "https://transit.umbc.edu/about/"
+  },
+  {
+    "question": "What meal plan options are available at UMBC?",
+    "answer": "UMBC offers a variety of meal plans managed through the Retriever Card Center. Plans include unlimited dining, weekly swipes, and flexible dining dollars for students who prefer more variety.",
+    "topic": "Dining",
+    "link": "https://campuscard.umbc.edu/meal-plans-2/meal-plans/"
+  },
+  {
+    "question": "What dining options are available on the UMBC campus?",
+    "answer": "UMBC has multiple dining spots including True Grits Dining Hall, Starbucks, Chick-fil-A, Halal Shack, and the Commons food court. Hours vary, and students find a good variety of food throughout the week.",
+    "topic": "Dining",
+    "link": "https://umbc.edu/undergraduate/life-at-umbc/where-youll-eat/"
+  },
+  {
+    "question": "Are there prayer or meditation spaces available on campus?",
+    "answer": "Yes. UMBC offers several prayer and meditation rooms, including spaces located in the Interfaith Center and other buildings. These areas are open to students of all backgrounds and faiths.",
+    "topic": "Campus",
+    "link": "https://campuslife.umbc.edu/belonging/reflection-prayer-and-meditation-spaces/"
+  },
+  {
+    "question": "Where can students hang out or study near UMBC?",
+    "answer": "Students spend time at places like the library, OCA Mocha café, the Commons, Engineering atriums, the Fine Arts building, and various lounges across campus.",
+    "topic": "Campus Life",
+    "link": ""
+  },
+  {
+    "question": "What are some fun things to do near UMBC?",
+    "answer": "Popular nearby destinations include Arundel Mills Mall, Inner Harbor, Baltimore museums, and OCA Mocha. Students also enjoy parks and nature trails around Catonsville.",
+    "topic": "Campus Life",
+    "link": "https://isss.umbc.edu/resources/fun-things-to-do/"
+  },
+  {
+    "question": "How can students meet new people at UMBC?",
+    "answer": "Students meet new people through clubs, events, TAP, Involvement Fest, and group projects. Many make friends in their dorms, during orientation, or by attending cultural and student organization events.",
+    "topic": "Campus Life",
+    "link": "https://campuslife.umbc.edu/student-organizations/"
+  },
+  {
+    "question": "What student organizations exist at UMBC?",
+    "answer": "UMBC has hundreds of student organizations covering cultural, academic, sports, professional, and community service interests. Students often find at least one group they relate to.",
+    "topic": "Campus Life",
+    "link": "https://campuslife.umbc.edu/student-organizations/"
+  },
+  {
+    "question": "Does UMBC offer job opportunities for students?",
+    "answer": "Yes, UMBC has many on-campus jobs ranging from library staff to lab assistants and administrative roles. These are posted on Handshake, and students can apply year-round.",
+    "topic": "Careers",
+    "link": "https://careers.umbc.edu/handshake/"
+  },
+  {
+    "question": "How do UMBC students get internships?",
+    "answer": "Most students find internships through Handshake, Career Center events, or departmental recommendations. UMBC’s location near Baltimore and DC gives students excellent access to industry opportunities.",
+    "topic": "Careers",
+    "link": "https://careers.umbc.edu/"
+  },
+  {
+    "question": "What does UMBC's Career Center offer?",
+    "answer": "The Career Center provides resume reviews, practice interviews, career fairs, leadership workshops, and job search assistance. They are known for being highly supportive and effective.",
+    "topic": "Careers",
+    "link": "https://careers.umbc.edu/"
+  },
+  {
+    "question": "Are there cultural groups and clubs at UMBC?",
+    "answer": "Yes, UMBC has a wide range of cultural and identity-based organizations that help students connect with peers who share similar backgrounds or interests.",
+    "topic": "Campus Life",
+    "link": ""
+  },
+  {
+    "question": "What sports or recreational activities are available at UMBC?",
+    "answer": "Students participate in intramural sports, club sports, fitness classes, swimming, and gym activities at the Retriever Activity Center (RAC).",
+    "topic": "Campus Life",
+    "link": ""
+  },
+  {
+    "question": "Is UMBC good for international students?",
+    "answer": "Yes, UMBC is very international-student friendly. The campus offers strong academic support, cultural communities, ISSS services, and many students report feeling welcome and supported.",
+    "topic": "Campus",
+    "link": "https://isss.umbc.edu/"
+  },
+  {
+    "question": "Does UMBC provide support for new students?",
+    "answer": "UMBC offers orientation sessions, peer mentoring, academic advising, and student success programs to help newcomers adjust smoothly to university life.",
+    "topic": "Campus",
+    "link": ""
+  },
+  {
+  "question": "What academic support resources are available at UMBC?",
+  "answer": "UMBC provides extensive academic support through tutoring centers, peer-assisted learning (PAL), academic advising, writing help, and department-specific support programs. These services help students succeed academically and adjust to university expectations.",
+  "topic": "Academics",
+  "link": "https://lrc.umbc.edu/"
+},
+{
+  "question": "What is the general atmosphere like at UMBC?",
+  "answer": "UMBC has a friendly, diverse, and welcoming environment. Students often describe the campus as respectful and open-minded, with a strong focus on collaboration and community involvement.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Is UMBC a diverse campus?",
+  "answer": "Yes, UMBC is known for its diversity, with students coming from various cultural, ethnic, and academic backgrounds. The university actively supports inclusion through many student organizations and community programs.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "What are some social spaces on the UMBC campus?",
+  "answer": "Students commonly hang out at The Commons, the Library, OCA Mocha, the Engineering atrium, RAC lounges, Fine Arts lounges, and residential hall study areas.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "How do students get groceries if they don’t have a car?",
+  "answer": "UMBC Transit shuttles run to nearby grocery stores and shopping plazas, allowing students without cars to manage their weekly needs easily.",
+  "topic": "Transit",
+  "link": "https://transit.umbc.edu/"
+},
+{
+  "question": "What support exists for students adjusting to college life?",
+  "answer": "UMBC offers orientation, first-year seminars, peer mentoring, counseling services, and academic coaching to help new students transition into campus life.",
+  "topic": "Support",
+  "link": "https://counseling.umbc.edu/"
+},
+{
+  "question": "Does UMBC offer mental health support?",
+  "answer": "Yes, the UMBC Counseling Center offers therapy sessions, crisis support, workshops, and mental wellness resources. Wait times vary, but many students find these services helpful.",
+  "topic": "Support",
+  "link": "https://counseling.umbc.edu/"
+},
+{
+  "question": "What kinds of student events does UMBC host?",
+  "answer": "UMBC hosts cultural festivals, organization fairs, research showcases, gaming events, talent shows, professional workshops, and sports events throughout the year.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Are there places for late-night studying on campus?",
+  "answer": "Yes, the library offers extended hours during exam periods, and many buildings such as the Commons, Engineering, and residence halls have late-night study lounges.",
+  "topic": "Academics",
+  "link": "https://library.umbc.edu/"
+},
+{
+  "question": "Do students need a car at UMBC?",
+  "answer": "No. Many students live on campus or use UMBC Transit services to reach key locations like grocery stores, train stations, and nearby neighborhoods. A car is optional but not necessary.",
+  "topic": "Transit",
+  "link": ""
+},
+{
+  "question": "What are some good places to study on campus?",
+  "answer": "Popular study spots include the library (all floors), the Commons, Engineering building lounges, Fine Arts lounges, study rooms in residential halls, and outdoor seating areas during nice weather.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "What makes UMBC unique?",
+  "answer": "UMBC is known for its supportive community, strong STEM programs, diverse student population, and emphasis on undergraduate research. The campus environment encourages academic growth and collaboration.",
+  "topic": "Campus",
+  "link": "https://umbc.edu/"
+},
+{
+  "question": "Are there opportunities for undergraduate research at UMBC?",
+  "answer": "Yes. UMBC is nationally recognized for undergraduate research. Students can work with faculty on projects in fields like engineering, computer science, biology, psychology, and more.",
+  "topic": "Academics",
+  "link": "https://ur.umbc.edu/"
+},
+{
+  "question": "Are there community gathering or coffee spots near UMBC?",
+  "answer": "Yes. OCA Mocha is a very popular student-friendly café co-founded by UMBC alumni, known for study space, events, and a strong sense of community.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What should students know about the surrounding Catonsville area?",
+  "answer": "Catonsville is a quiet, suburban neighborhood with coffee shops, parks, grocery stores, and several small restaurants. Students find it a peaceful and convenient area to live near.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "What happens if on-campus housing is full?",
+  "answer": "Students often opt for off-campus housing options such as The Haven or Day Village. Many find roommates through community groups, and the campus housing office supports students in the transition.",
+  "topic": "Housing",
+  "link": "https://retrieversupport.umbc.edu/off-campus-housing/"
+},
+{
+  "question": "Is UMBC good for graduate students?",
+  "answer": "Yes. Graduate students benefit from strong research programs, assistantships, career services, and collaboration with Baltimore and DC industries.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "What recreational facilities does UMBC offer?",
+  "answer": "UMBC’s RAC (Retriever Activity Center) offers a gym, basketball courts, group fitness classes, swimming, climbing wall access, and recreational sports leagues.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC have spaces for arts and creativity?",
+  "answer": "Yes. UMBC’s Fine Arts building, CADVC galleries, performance halls, and arts clubs give students many opportunities to explore music, visual arts, dance, and theater.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Is UMBC a good option for students who prefer a quieter environment?",
+  "answer": "Yes. UMBC is known for its peaceful and focused campus atmosphere. It is a great fit for students who want a strong academic environment without the chaos of a large, noisy city campus.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Are there student communities for international students?",
+  "answer": "Yes. Many student groups, cultural organizations, and UMBC’s ISSS office provide support, events, and peer communities for international students.",
+  "topic": "Campus",
+  "link": "https://isss.umbc.edu/"
+},
+{
+  "question": "How can students get involved on campus?",
+  "answer": "Students can join clubs, sign up for involvement events, participate in leadership workshops, attend fairs, or volunteer with student organizations. There are hundreds of opportunities across campus.",
+  "topic": "Campus Life",
+  "link": "https://campuslife.umbc.edu/"
+},
+{
+  "question": "Does UMBC have spaces for collaboration and group work?",
+  "answer": "Yes. Many buildings offer group study rooms, common lounges, and large open spaces for meetings. The library, Commons, and academic buildings have several collaboration-friendly areas.",
+  "topic": "Academics",
+  "link": "https://library.umbc.edu/"
+},
+{
+  "question": "What is the weather like around UMBC?",
+  "answer": "UMBC experiences all four seasons. Falls are cool, winters can be cold with occasional snow, spring is mild, and summer is warm. Students should prepare for seasonal changes.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "What makes UMBC a good choice for STEM majors?",
+  "answer": "UMBC is nationally recognized for its strong STEM programs, especially in computer science, engineering, biology, and cybersecurity. The university provides extensive research opportunities, industry partnerships, and hands-on lab experience that help students build strong foundations.",
+  "topic": "Academics",
+  "link": "https://umbc.edu/"
+},
+{
+  "question": "Is UMBC known for cybersecurity?",
+  "answer": "Yes. UMBC is highly ranked in cybersecurity and is designated as a Center of Academic Excellence in Cyber Defense Education. Students benefit from research labs, cybersecurity clubs, and connections to NSA, NIST, and other federal agencies.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "What kind of computer science environment does UMBC have?",
+  "answer": "UMBC’s CS program is strong, collaborative, and research-oriented. Students gain practical experience from professors working in AI, cybersecurity, data science, and distributed systems. Many undergraduate students participate in research early on.",
+  "topic": "Academics",
+  "link": "https://cs.umbc.edu/"
+},
+{
+  "question": "Are there opportunities for teaching or research assistantships?",
+  "answer": "Yes. Graduate students frequently secure teaching assistantships and research assistantships, especially in computer science, engineering, and STEM fields. These positions offer tuition benefits and stipends.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "How friendly is UMBC for new students?",
+  "answer": "UMBC is considered a very welcoming campus. Students often compliment the community’s friendliness, the respectful campus culture, and the helpfulness of faculty and staff.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What kind of community does UMBC have?",
+  "answer": "UMBC fosters a tight-knit, respectful, and diverse student community. Many students describe it as a positive and academically focused environment where people help each other succeed.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Are there places on campus where students can relax?",
+  "answer": "Yes. Students often relax in the Commons lounges, grass areas around Academic Row, the library’s quiet floors, and the RAC lounges. Many buildings include comfortable seating areas for downtime.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC have group study rooms?",
+  "answer": "Yes, UMBC offers group study rooms in the library and various academic buildings. These rooms can be reserved and are used for project meetings, presentations, or study sessions.",
+  "topic": "Academics",
+  "link": "https://library.umbc.edu/"
+},
+{
+  "question": "What kinds of part-time jobs are available for international students?",
+  "answer": "International students typically work on-campus in dining services, the library, tutoring centers, administrative offices, or research labs. These jobs follow visa guidelines and offer flexible hours for students.",
+  "topic": "Careers",
+  "link": ""
+},
+{
+  "question": "Where do UMBC students usually buy groceries?",
+  "answer": "Students without cars often rely on UMBC Transit shuttles to reach grocery stores such as Giant, Walmart, and local shopping plazas. Many students also use ride-share options with friends.",
+  "topic": "Transit",
+  "link": ""
+},
+{
+  "question": "What are some weekend activities for UMBC students?",
+  "answer": "Students enjoy campus events, visiting Baltimore’s Inner Harbor, exploring Arundel Mills Mall, going to museums, hiking nearby trails, attending movie nights, or relaxing at OCA Mocha.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Is UMBC a commuter-friendly campus?",
+  "answer": "Yes. UMBC has a large commuter population and provides dedicated commuter lounges, parking options, and transit services that make commuting easier and more comfortable.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Do UMBC students commonly carpool?",
+  "answer": "Yes. Many students carpool using UMBC community groups, WhatsApp chats, and student networks to reach grocery stores, events, or locations not covered by UMBC Transit.",
+  "topic": "Transit",
+  "link": ""
+},
+{
+  "question": "Are there Indian, Asian, or international grocery stores near UMBC?",
+  "answer": "Yes. Students often visit nearby Asian, South Asian, and Middle Eastern grocery stores that are a short bus or car ride away from campus.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What kind of social life can students expect at UMBC?",
+  "answer": "UMBC offers a balanced social environment. The campus is not known for wild parties but provides plenty of events, clubs, cultural gatherings, game nights, and recreational activities.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC host cultural festivals or celebrations?",
+  "answer": "Yes. Student organizations regularly host cultural shows, Diwali events, Lunar New Year celebrations, African heritage nights, and many other cultural programs.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Is UMBC a good environment for students who prefer academics over partying?",
+  "answer": "Yes. UMBC is known as an academically focused campus where students prioritize studies, research, and professional development. Social life is present but not overwhelming.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "How accessible are professors at UMBC?",
+  "answer": "Professors at UMBC are generally approachable and supportive. Many hold regular office hours, respond quickly to emails, and are open to mentoring students in research or academics.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Does UMBC offer opportunities for leadership development?",
+  "answer": "Yes. Students can develop leadership skills through student organizations, peer mentoring programs, resident assistant roles, student committees, and workshops offered by the university.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What is the campus culture like?",
+  "answer": "The campus culture at UMBC is collaborative, respectful, and academically driven. Students often work together on projects, participate in clubs, and support each other during exams.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Does UMBC have a strong alumni network?",
+  "answer": "Yes. UMBC alumni are actively involved in mentorship, career events, and professional networking. Graduates often support current students through workshops and internship opportunities.",
+  "topic": "Careers",
+  "link": ""
+},
+{
+  "question": "Is there a gym on campus?",
+  "answer": "Yes. The Retriever Activity Center (RAC) includes a gym, courts, track, fitness classes, and weightlifting areas accessible to all students.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What resources are available for physical wellness?",
+  "answer": "UMBC offers group fitness classes, gym facilities, outdoor fields, walking paths, intramural sports, and wellness workshops that help students maintain a healthy lifestyle.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Are there quiet study areas at UMBC?",
+  "answer": "Yes. The library’s upper floors, quiet study rooms, and several academic building lounges provide peaceful study environments ideal for focused work.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Are there volunteer or service opportunities at UMBC?",
+  "answer": "Yes. Students can get involved in community service through student organizations, nonprofit collaborations, volunteer events, and leadership programs that focus on civic engagement.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What resources does UMBC offer for time management and academic success?",
+  "answer": "UMBC provides workshops, peer mentoring, academic coaching, and online tools that help students manage their time effectively, develop study skills, and stay organized. Many students find these programs essential during their first semester.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Does UMBC have resources for students who feel lonely or disconnected?",
+  "answer": "Yes. UMBC encourages students to join organizations, attend social events, meet advisors, and connect with peer support groups. Counseling services are also available for students experiencing loneliness or adjustment difficulties.",
+  "topic": "Support",
+  "link": "https://counseling.umbc.edu/"
+},
+{
+  "question": "Is the UMBC campus walkable?",
+  "answer": "Yes. UMBC is a compact and walkable campus with academic buildings, residential halls, dining areas, and recreation facilities located within convenient walking distance.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Are there nature trails or outdoor areas near UMBC?",
+  "answer": "Yes. Nearby areas such as Patapsco Valley State Park offer hiking trails, picnic spots, and scenic areas that students often visit for relaxation or weekend activities.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What makes UMBC’s student community special?",
+  "answer": "Students at UMBC often describe their community as respectful, inclusive, and supportive. The campus culture values diversity and encourages students to get involved in clubs, projects, and leadership roles.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Does UMBC offer internship preparation support?",
+  "answer": "Yes. The Career Center provides resume workshops, mock interviews, networking events, employer meetups, and internship fairs to help students build confidence and secure opportunities.",
+  "topic": "Careers",
+  "link": "https://careers.umbc.edu/"
+},
+{
+  "question": "How do students travel to Washington, DC from UMBC?",
+  "answer": "Students commonly use the MARC train from Halethorpe station, which is accessible via UMBC Transit. The train provides easy access to Washington, DC for internships, events, or weekend travel.",
+  "topic": "Transit",
+  "link": "https://transit.umbc.edu/"
+},
+{
+  "question": "Are there study groups or peer learning programs?",
+  "answer": "Yes. UMBC has peer-assisted learning sessions (PAL), tutoring groups, study zones, and department-based review sessions for many difficult courses such as math, computer science, and engineering.",
+  "topic": "Academics",
+  "link": "https://lrc.umbc.edu/"
+},
+{
+  "question": "Does UMBC support entrepreneurship?",
+  "answer": "Yes. Student entrepreneurs can benefit from the UMBC Alex. Brown Center for Entrepreneurship, which offers mentorship, workshops, competitions, and startup guidance.",
+  "topic": "Academics",
+  "link": "https://entrepreneurship.umbc.edu/"
+},
+{
+  "question": "Can UMBC students participate in undergraduate teaching opportunities?",
+  "answer": "Yes. Many academic departments allow capable students to serve as teaching fellows or course assistants, helping instructors and gaining valuable teaching experience.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "How is the social environment for introverted students?",
+  "answer": "UMBC is an excellent environment for introverted students because the campus is calm, respectful, and academically driven. Students can choose from low-key clubs, study-centered groups, and smaller community activities.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Are there part-time jobs specifically for graduate students?",
+  "answer": "Yes. Graduate students often work as teaching assistants, research assistants, graders, or administrative staff. These positions help with tuition costs and professional development.",
+  "topic": "Careers",
+  "link": ""
+},
+{
+  "question": "Does UMBC host talent shows or entertainment events?",
+  "answer": "Yes. Student organizations frequently host talent shows, cultural nights, open-mic events, game nights, and performances throughout the semester.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What are some study-friendly cafés near UMBC?",
+  "answer": "OCA Mocha is the most popular off-campus café where UMBC students study, host meetings, or hang out. Several small campus spots also offer quiet seating and Wi-Fi.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Is UMBC a research-focused university?",
+  "answer": "Yes. UMBC is well known for its research productivity and offers many opportunities for undergraduates and graduates to join labs, work on funded projects, and collaborate with professors.",
+  "topic": "Academics",
+  "link": "https://umbc.edu/research/"
+},
+{
+  "question": "How diverse is the student population?",
+  "answer": "UMBC is one of the most diverse universities in Maryland. Students come from many cultural, ethnic, and international backgrounds, creating a welcoming environment for everyone.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "What is the food quality like at UMBC?",
+  "answer": "Dining options are generally good, with a variety of choices including vegan, vegetarian, halal, and international cuisines. Students often appreciate the flexibility of dining dollars and meal plans.",
+  "topic": "Dining",
+  "link": "https://umbc.edu/undergraduate/life-at-umbc/where-youll-eat/"
+},
+{
+  "question": "How active is the UMBC student body?",
+  "answer": "UMBC students are active in clubs, cultural events, recreational sports, academic competitions, and volunteer work. The campus environment encourages participation and personal growth.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC have engineering clubs?",
+  "answer": "Yes. UMBC has robotics teams, engineering societies, women-in-tech groups, cybersecurity clubs, and other STEM-oriented organizations.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Where can international students get help with immigration questions?",
+  "answer": "International students can contact the ISSS Office, which provides advising on visas, immigration rules, CPT, OPT, and cultural adjustment support.",
+  "topic": "Support",
+  "link": "https://isss.umbc.edu/"
+},
+{
+  "question": "Does UMBC offer support for career development?",
+  "answer": "Yes. Through the Career Center, students gain access to resume reviews, career planning, employer panels, job searches, and professional development events.",
+  "topic": "Careers",
+  "link": "https://careers.umbc.edu/"
+},
+{
+  "question": "Are there quiet nature areas near UMBC?",
+  "answer": "Yes. Students often visit nature spots in Catonsville, Patapsco Valley State Park, and local trails to relax or hike during weekends.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "How accessible is the UMBC campus for walking between buildings?",
+  "answer": "UMBC is highly accessible on foot. The campus layout is compact, allowing students to reach academic buildings, dorms, dining centers, and study areas within a few minutes.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "What places can students visit for entertainment?",
+  "answer": "Students often visit Arundel Mills for shopping and movies, Inner Harbor for waterfront attractions, and downtown Baltimore for festivals, museums, and dining.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Are there quiet cultural or art spaces on campus?",
+  "answer": "Yes. The CADVC galleries and Fine Arts building offer peaceful spaces to enjoy art exhibitions, student showcases, and creative events.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Are there opportunities to participate in hackathons at UMBC?",
+  "answer": "Yes. UMBC students frequently participate in hackathons organized by campus tech clubs, regional organizations, and national events. Many competitions are beginner-friendly and help students build teamwork and technical skills.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC offer resources for coding practice or technical interview preparation?",
+  "answer": "Yes. Many students prepare for technical interviews using resources from the Career Center, tech clubs, peer groups, and external platforms like LeetCode or CodePath. Some UMBC student organizations also host coding practice sessions.",
+  "topic": "Careers",
+  "link": "https://careers.umbc.edu/"
+},
+{
+  "question": "How active is UMBC’s international community?",
+  "answer": "UMBC has a large and active international community. Students from many countries participate in cultural events, student organizations, international clubs, and ISSS activities that help them adapt to life in the U.S.",
+  "topic": "Campus Life",
+  "link": "https://isss.umbc.edu/"
+},
+{
+  "question": "Does UMBC have orientation programs for new students?",
+  "answer": "Yes. UMBC offers orientation sessions that help new students understand academic expectations, campus resources, course registration, and community life. These programs are especially helpful for first-time and international students.",
+  "topic": "Support",
+  "link": ""
+},
+{
+  "question": "What is campus dining like for students with dietary restrictions?",
+  "answer": "UMBC Dining offers vegetarian, vegan, halal, and allergen-friendly meal options. Students can speak with dining hall managers regarding special dietary needs, and dining staff are trained to accommodate common restrictions.",
+  "topic": "Dining",
+  "link": "https://umbc.edu/undergraduate/life-at-umbc/where-youll-eat/"
+},
+{
+  "question": "Do students need meal plans if they live off campus?",
+  "answer": "No. Meal plans are optional for off-campus students. Many students choose dining dollars or limited meal swipe plans for flexibility while others cook at home or use nearby restaurants.",
+  "topic": "Dining",
+  "link": ""
+},
+{
+  "question": "Are there cultural clubs for Indian, Asian, African, and Latino students?",
+  "answer": "Yes. UMBC has a large range of multicultural clubs that host events, festivals, and community gatherings. These groups help students celebrate their culture and meet others from similar backgrounds.",
+  "topic": "Campus Life",
+  "link": "https://campuslife.umbc.edu/student-organizations/"
+},
+{
+  "question": "What kinds of support do international students receive?",
+  "answer": "International students receive help through ISSS for immigration, cultural adjustment, CPT/OPT guidance, and academic advising. UMBC’s environment is considered welcoming and supportive for students adjusting to the U.S.",
+  "topic": "Support",
+  "link": "https://isss.umbc.edu/"
+},
+{
+  "question": "Are there shopping centers near UMBC?",
+  "answer": "Yes. Students frequently shop at nearby plazas in Catonsville, Arbutus, and Ellicott City. Arundel Mills Mall is a popular large shopping center located about 15–20 minutes from campus.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "How do UMBC students travel to grocery stores?",
+  "answer": "Students without cars commonly use the UMBC Transit shuttles that run to Giant, Walmart, and other grocery locations. Some students also carpool or use ride-sharing apps.",
+  "topic": "Transit",
+  "link": "https://transit.umbc.edu/"
+},
+{
+  "question": "Does UMBC provide academic advising?",
+  "answer": "Yes. Academic advisors help students choose courses, manage degree requirements, plan long-term academic goals, and connect with departmental resources. Advising is available throughout the year.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Are tutoring services available for difficult courses?",
+  "answer": "Yes. UMBC provides tutoring and peer-assisted learning sessions for math, engineering, chemistry, computer science, and many other challenging subjects. Students often find these services extremely helpful.",
+  "topic": "Academics",
+  "link": "https://lrc.umbc.edu/"
+},
+{
+  "question": "Does UMBC offer pre-professional advising?",
+  "answer": "Yes. Students preparing for medical, dental, law, or graduate school programs can meet with pre-professional advisors who help with applications, planning, and interview preparation.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "How safe is UMBC during late hours?",
+  "answer": "UMBC is considered very safe at night. The campus is well-lit and monitored, and students frequently use the UMBC Police escort service or walk in groups for additional comfort.",
+  "topic": "Safety",
+  "link": "https://police.umbc.edu/"
+},
+{
+  "question": "Are there late-night food options near UMBC?",
+  "answer": "Several nearby places in Catonsville and Arbutus stay open late, and students sometimes travel to downtown Baltimore for late-night dining. On campus, options may vary by semester.",
+  "topic": "Dining",
+  "link": ""
+},
+{
+  "question": "What events help students make friends?",
+  "answer": "Involvement Fest, organization fairs, gaming nights, fitness classes, cultural celebrations, and residence hall events are some of the most popular ways for students to meet new people at UMBC.",
+  "topic": "Campus Life",
+  "link": "https://campuslife.umbc.edu/"
+},
+{
+  "question": "Does UMBC offer student mentorship opportunities?",
+  "answer": "Yes. Peer mentoring programs, tutoring, teaching assistantships, and leadership groups provide opportunities for students to mentor others and build meaningful relationships across campus.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "How competitive are academics at UMBC?",
+  "answer": "Academics at UMBC are rigorous but collaborative. Students help each other study, form group sessions, and frequently work together on projects rather than competing aggressively.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Are there recreational trails for biking near UMBC?",
+  "answer": "Yes. Students enjoy biking around Catonsville and visiting nearby trails such as those in Patapsco Valley State Park, which offers scenic routes and outdoor recreation.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Are there work-study jobs for eligible students?",
+  "answer": "Yes. Work-study eligible students often find positions in administrative offices, research labs, academic centers, and campus services. These jobs provide flexible hours compatible with class schedules.",
+  "topic": "Careers",
+  "link": ""
+},
+{
+  "question": "Does UMBC have good opportunities for networking?",
+  "answer": "Yes. UMBC hosts career fairs, employer meet-and-greets, alumni panels, and departmental events that allow students to network with professionals from Baltimore, DC, and beyond.",
+  "topic": "Careers",
+  "link": ""
+},
+{
+  "question": "Is UMBC a good fit for students who prefer smaller class sizes?",
+  "answer": "Yes. Many courses, especially upper-level classes, have smaller class sizes that allow students to interact closely with professors and receive more personalized support.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Are there opportunities for cultural expression at UMBC?",
+  "answer": "Yes. UMBC students participate in cultural dance teams, music groups, heritage celebrations, and cultural student organizations that host events throughout the year.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Do UMBC students participate in volunteering or community projects?",
+  "answer": "Yes. Many student groups organize volunteer events, service drives, and partnerships with local nonprofits, giving students opportunities to give back to the community.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "How does UMBC support student health?",
+  "answer": "The UMBC Health Services center provides medical care, wellness education, immunizations, and basic health consultations. Students also access mental health support through the Counseling Center.",
+  "topic": "Support",
+  "link": "https://counseling.umbc.edu/"
+},
+{
+  "question": "Does UMBC offer programs for leadership development?",
+  "answer": "Yes. UMBC provides leadership development through student organizations, peer mentoring, RA roles, student government, and workshops that help students build confidence and communication skills.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What mental health resources are available for UMBC students?",
+  "answer": "UMBC provides confidential therapy sessions, crisis counseling, support groups, and mental health workshops through the Counseling Center. Students often find these services helpful during stressful times.",
+  "topic": "Support",
+  "link": "https://counseling.umbc.edu/"
+},
+{
+  "question": "Are there quiet places on campus for students who prefer peaceful environments?",
+  "answer": "Yes. The top floors of the library, Fine Arts lounges, and various academic building corners offer quiet and peaceful spaces ideal for reading or studying.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC have art or cultural exhibition spaces?",
+  "answer": "Yes. The Center for Art, Design & Visual Culture (CADVC) hosts exhibitions, student art shows, and cultural programs throughout the year.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Is UMBC a good university for students who like smaller communities?",
+  "answer": "Yes. UMBC’s community is known for being tightly knit and welcoming. Students appreciate the respectful atmosphere and the fact that it’s easy to find groups with shared interests.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Where do UMBC students typically go for entertainment?",
+  "answer": "Students visit places such as Arundel Mills Mall, Inner Harbor, OCA Mocha, Catonsville’s local cafés, and recreational trails. Baltimore also offers museums, events, restaurants, and waterfront activities.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC offer volunteer programs for helping the community?",
+  "answer": "Yes. Students participate in volunteer projects organized by service clubs, academic departments, nonprofit collaborations, and community outreach events.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Is there public transportation access to the MARC train?",
+  "answer": "Yes. UMBC Transit provides shuttle service to the Halethorpe MARC Station, which connects students to Washington, DC and Baltimore.",
+  "topic": "Transit",
+  "link": "https://transit.umbc.edu/"
+},
+{
+  "question": "Can students without a car commute easily around the area?",
+  "answer": "Yes. UMBC Transit, rideshare options, and carpool groups make it easy for students without cars to access grocery stores, shopping, and nearby neighborhoods.",
+  "topic": "Transit",
+  "link": ""
+},
+{
+  "question": "Does UMBC provide medical services on campus?",
+  "answer": "Yes. UMBC Health Services provides primary care, urgent care, immunizations, prescriptions, and wellness education. Students often visit for basic medical needs or consultations.",
+  "topic": "Support",
+  "link": ""
+},
+{
+  "question": "What kinds of arts clubs exist at UMBC?",
+  "answer": "UMBC has clubs for dance, theater, music, visual arts, photography, filmmaking, and cultural arts. Students participate in performances, showcases, and creative collaborations.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Are there clubs for tech and engineering students?",
+  "answer": "Yes. UMBC has active tech clubs including cybersecurity groups, robotics teams, Women in Tech, ACM student chapters, hackathon groups, and engineering societies.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "How do students typically socialize at UMBC?",
+  "answer": "Students socialize through clubs, residence halls, study groups, game nights, cultural festivals, and hangouts at the Commons or OCA Mocha.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Are there opportunities for community involvement on campus?",
+  "answer": "Yes. Students can join community service clubs, volunteer at campus events, or participate in initiatives that partner with local nonprofits.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC have places to practice music?",
+  "answer": "Yes. The Fine Arts building offers music practice rooms and equipment for students involved in performance or simply wanting a quiet place to practice.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Is UMBC friendly for students who prefer quiet weekends?",
+  "answer": "Yes. UMBC is known for its peaceful environment. Many students enjoy quiet weekends studying, relaxing, taking walks, or spending time with friends in small groups.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Does UMBC have access to nature or green spaces?",
+  "answer": "Yes. The campus includes green lawns, seating areas, and walkways, while nearby Catonsville and Patapsco Valley State Park offer additional outdoor recreation opportunities.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Are there opportunities for performing arts at UMBC?",
+  "answer": "Yes. UMBC has theater programs, dance clubs, music ensembles, and cultural performance groups that regularly host shows and events.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC offer any mentorship opportunities for research?",
+  "answer": "Yes. Students can work with faculty mentors on undergraduate and graduate research projects, gaining hands-on experience and academic guidance.",
+  "topic": "Academics",
+  "link": "https://ur.umbc.edu/"
+},
+{
+  "question": "Where can students relax between classes?",
+  "answer": "Students relax in the Commons lounges, outdoor benches along Academic Row, the library, engineering atriums, and residential hall lounges.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC have good connectivity to downtown Baltimore?",
+  "answer": "Yes. Students can reach downtown Baltimore easily via MARC train, rideshare services, or local bus routes. It’s a short 15-minute trip.",
+  "topic": "Transit",
+  "link": ""
+},
+{
+  "question": "How can I get involved in the UMBC community?",
+  "answer": "Joining clubs, volunteering, attending organization fairs, participating in cultural events, and joining study groups are great ways to get involved and make friends at UMBC.",
+  "topic": "Campus Life",
+  "link": "https://campuslife.umbc.edu/"
+},
+{
+  "question": "Does UMBC provide financial guidance or aid support?",
+  "answer": "Yes. The Office of Financial Aid helps students understand tuition, scholarships, FAFSA, grants, and billing. Students can schedule advising appointments for personalized help.",
+  "topic": "Support",
+  "link": "https://financialaid.umbc.edu/"
+},
+{
+  "question": "Can students find part-time roles in research labs?",
+  "answer": "Yes. Many departments hire undergraduates and graduates for paid or volunteer research roles. These positions offer academic experience and often lead to strong faculty mentorship.",
+  "topic": "Careers",
+  "link": ""
+},
+{
+  "question": "Does UMBC support students preparing for graduate school?",
+  "answer": "Yes. UMBC offers application workshops, professor mentorship, writing support, and pre-professional advising that helps students apply confidently to graduate programs.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Does UMBC offer academic workshops or skill-building sessions?",
+  "answer": "Yes. UMBC regularly hosts workshops on academic writing, research skills, study strategies, time management, and technical skill development. These workshops are led by faculty, advisors, and campus specialists.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Are students encouraged to participate in research early?",
+  "answer": "Yes. UMBC strongly encourages early undergraduate research involvement. Many professors welcome motivated students into their labs even during freshman or sophomore year.",
+  "topic": "Academics",
+  "link": "https://ur.umbc.edu/"
+},
+{
+  "question": "Does UMBC have a supportive environment for women in STEM?",
+  "answer": "Yes. UMBC hosts organizations like CWIT (Center for Women in Technology) and Women in Science groups that provide mentorship, workshops, scholarships, and networking opportunities.",
+  "topic": "Academics",
+  "link": "https://cwit.umbc.edu/"
+},
+{
+  "question": "What opportunities exist for students interested in entrepreneurship?",
+  "answer": "The Alex. Brown Center for Entrepreneurship offers competitions, startup workshops, pitch training, and mentor connections to help students explore business and innovation ideas.",
+  "topic": "Campus Life",
+  "link": "https://entrepreneurship.umbc.edu/"
+},
+{
+  "question": "How can students access career advising?",
+  "answer": "The Career Center provides walk-ins, scheduled advising, resume reviews, interview practice, and personalized career planning. Advisors help students explore job paths and internship opportunities.",
+  "topic": "Careers",
+  "link": "https://careers.umbc.edu/"
+},
+{
+  "question": "Are there student-run clubs focused on technology?",
+  "answer": "Yes. UMBC has many tech-focused organizations, including CyberDawgs, HackUMBC, Robotics Club, Game Developers Club, and ACM student chapters.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC have strong support for cybersecurity students?",
+  "answer": "Yes. Cybersecurity is one of UMBC’s strongest fields. Students benefit from research centers, competitions, industry partnerships, and mentorship from faculty involved in national cyber initiatives.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "What on-campus events help students relax or have fun?",
+  "answer": "UMBC hosts game nights, movie screenings, cultural showcases, concerts, and recreational tournaments. These events help students unwind and socialize.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Where do students usually spend time between classes?",
+  "answer": "Common places include the Commons seating areas, library floors, engineering lounges, the RAC lobby, and outdoor tables along Academic Row.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC provide support for academic writing?",
+  "answer": "Yes. The Writing Center helps students with essays, research papers, citations, and writing strategy. Appointments are available for all course levels.",
+  "topic": "Academics",
+  "link": "https://writingcenter.umbc.edu/"
+},
+{
+  "question": "What opportunities does UMBC provide for creative students?",
+  "answer": "Creative students can join visual arts programs, dance teams, theater groups, music ensembles, film clubs, and graphic design communities. UMBC frequently hosts art shows and performances.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Are there student meetups for casual interests like gaming or anime?",
+  "answer": "Yes. UMBC has multiple casual-interest clubs including anime clubs, gaming guilds, tabletop gaming communities, and other student-run hobby groups.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What makes UMBC good for academically serious students?",
+  "answer": "UMBC's environment is focused, respectful, and academically oriented. Students frequently collaborate, seek tutoring, join study groups, and support one another in challenging courses.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "How does UMBC help students preparing for interviews?",
+  "answer": "The Career Center offers mock interviews, resume reviews, employer workshops, and interview preparation sessions that help students gain confidence and improve their professional communication.",
+  "topic": "Careers",
+  "link": "https://careers.umbc.edu/"
+},
+{
+  "question": "Does UMBC support students preparing for graduate school entrance exams?",
+  "answer": "Yes. Peer groups, academic advisors, and campus workshops help students prepare for exams such as GRE, GMAT, LSAT, and MCAT. Some student organizations also hold study groups for these tests.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "What are common weekend activities for UMBC students?",
+  "answer": "Students often attend campus events, visit local cafés, shop at Arundel Mills, explore Baltimore’s waterfront, or relax in study lounges. Some also join group outings through student organizations.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC have basketball or sports facilities?",
+  "answer": "Yes. The RAC includes basketball courts, indoor tracks, cardio machines, swimming pools, and equipment for recreational sports.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "How can students join cultural organizations?",
+  "answer": "Students can browse UMBC’s organization directory, attend Involvement Fest, or visit cultural club events during the semester. Most organizations welcome newcomers warmly.",
+  "topic": "Campus Life",
+  "link": "https://campuslife.umbc.edu/student-organizations/"
+},
+{
+  "question": "Does UMBC have collaborative projects or group-based learning?",
+  "answer": "Yes. Many courses require team projects, group presentations, lab collaborations, and peer-led sessions. This helps students build teamwork and communication skills.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "What is the general vibe of UMBC?",
+  "answer": "The vibe at UMBC is calm, respectful, academically focused, and diverse. Students often form close study groups and maintain a healthy balance between academics and social life.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Is UMBC good for introverted or quiet students?",
+  "answer": "Yes. UMBC's peaceful environment, supportive community, and smaller social groups make it ideal for introverted students who prefer structured, academic-oriented settings.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Where do students typically exercise or stay active?",
+  "answer": "Students exercise at the RAC, walk around campus trails, join fitness classes, or participate in club sports. Recreational programs cater to beginners and experienced athletes alike.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What opportunities exist for students who enjoy volunteering?",
+  "answer": "Volunteer groups on campus partner with local organizations to host community service events, donation drives, and outreach programs that students frequently participate in.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Can students study late on campus?",
+  "answer": "Yes. The library and several academic buildings remain open late, especially during midterms and finals, giving students plenty of quiet, safe spaces to study.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Does UMBC offer quiet outdoor seating for studying?",
+  "answer": "Yes. Many students study outside along Academic Row, near the Library pond, on benches near the Fine Arts building, or in shaded green spaces across campus.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Do UMBC students often form study groups?",
+  "answer": "Yes. Study groups are very common at UMBC, especially for STEM and upper-level courses. Students often coordinate through Discord, class group chats, and campus organizations.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "What academic areas is UMBC best known for?",
+  "answer": "UMBC is nationally recognized for computer science, engineering, cybersecurity, biology, psychology, data science, and research excellence. Students benefit from strong faculty support and industry connections.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Is UMBC welcoming to international students?",
+  "answer": "Yes. UMBC is known for a warm, supportive environment for international students. The ISSS office helps with visas, orientation, housing, and cultural adjustment, creating an inclusive community.",
+  "topic": "Campus",
+  "link": "https://isss.umbc.edu/"
+},
+{
+  "question": "What academic resources help students succeed?",
+  "answer": "UMBC provides tutoring centers, writing support, research mentorship, supplemental instruction, advising, office hours, and peer study groups. Together these create a strong support system.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Does UMBC offer clubs for creative writing or literature?",
+  "answer": "Yes. Students can join writing clubs, poetry circles, literature discussions, and creative arts groups. These clubs hold showcases and collaborative writing sessions.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Where can I find food options if I stay late on campus?",
+  "answer": "Many students visit the Commons, campuses cafés, vending areas, or nearby shops in Catonsville. The availability varies by day, so students often check posted hours.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Is UMBC a good place for students who prefer calm campus environments?",
+  "answer": "Yes. UMBC is generally calm, safe, and academically focused. Many students appreciate its peaceful environment, especially compared to louder city campuses.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Can I get help choosing the right major at UMBC?",
+  "answer": "Yes. Academic advisors help students explore majors, understand degree requirements, and plan their academic journey based on interests and career goals.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Does UMBC offer career fairs?",
+  "answer": "Yes. UMBC hosts major career fairs where hundreds of employers participate. These events provide internship opportunities, job placements, and networking with recruiters.",
+  "topic": "Careers",
+  "link": "https://careers.umbc.edu/"
+},
+{
+  "question": "How do students find part-time jobs near campus?",
+  "answer": "Students often use Handshake, campus job boards, café postings in Catonsville, and UMBC departmental openings. Many secure flexible roles that fit around academic schedules.",
+  "topic": "Careers",
+  "link": "https://careers.umbc.edu/handshake/"
+},
+{
+  "question": "Does UMBC provide resources for first-generation students?",
+  "answer": "Yes. UMBC offers mentorship, advising, community groups, and support programs tailored to first-generation students navigating academic and campus life challenges.",
+  "topic": "Support",
+  "link": ""
+},
+{
+  "question": "Are there places to relax outdoors on campus?",
+  "answer": "Yes. Students enjoy the library pond area, shaded benches, green lawns near Fine Arts, and quiet spots along Academic Row. These spaces are great for unwinding.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Does UMBC provide campus tours?",
+  "answer": "Yes. Prospective students can join campus tours guided by student ambassadors who introduce academic buildings, housing, dining, labs, and student life.",
+  "topic": "Campus",
+  "link": "https://umbc.edu/"
+},
+{
+  "question": "What makes UMBC a strong choice for STEM majors?",
+  "answer": "UMBC offers rigorous coursework, research access, lab facilities, tutoring support, cybersecurity initiatives, and partnerships with federal agencies and technology companies.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Does UMBC host cultural celebrations?",
+  "answer": "Yes. Students enjoy cultural festivals, international nights, heritage celebrations, dance events, and global food fairs that highlight UMBC’s diverse student community.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "How do students usually travel to off-campus housing?",
+  "answer": "Students use UMBC Transit, rideshares, carpools, or personal vehicles. Transit routes are popular for apartments in Catonsville and Halethorpe.",
+  "topic": "Transit",
+  "link": "https://transit.umbc.edu/"
+},
+{
+  "question": "Are there quiet indoor study areas besides the library?",
+  "answer": "Yes. Students study in Engineering atriums, Sherman Hall, Fine Arts lounges, and department-specific quiet spaces. Many buildings have calm corners for focused work.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Can international students work on campus?",
+  "answer": "Yes. International students can work up to 20 hours per week on campus in dining halls, libraries, labs, and administrative offices, depending on visa regulations.",
+  "topic": "Careers",
+  "link": "https://isss.umbc.edu/"
+},
+{
+  "question": "Does UMBC have fitness classes?",
+  "answer": "Yes. The RAC offers yoga, Zumba, cardio training, strength sessions, and recreational classes that students join to stay active and meet new people.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "How do students stay informed about campus updates?",
+  "answer": "Students stay informed through myUMBC, group chats, organization announcements, email alerts, and flyers posted around campus promoting events and opportunities.",
+  "topic": "Campus",
+  "link": ""
+},
+{
+  "question": "Are there opportunities for students to participate in competitions?",
+  "answer": "Yes. Students join hackathons, cybersecurity competitions, robotics contests, research showcases, dance battles, gaming tournaments, and cultural performance competitions.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "Is UMBC considered a supportive academic environment?",
+  "answer": "Yes. UMBC is known for its collaborative academic culture where classmates support one another, professors are approachable, and numerous resources help students succeed.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Is it easy to make friends at UMBC?",
+  "answer": "Yes. Students connect through clubs, organization events, orientation programs, lounges in residence halls, and small-group activities that naturally bring people together.",
+  "topic": "Campus Life",
+  "link": ""
+},
+{
+  "question": "What makes UMBC safe for students?",
+  "answer": "UMBC has dedicated campus police, regular patrols, well-lit walkways, emergency phones, safety escort services, and a calm suburban location, all contributing to a safe environment.",
+  "topic": "Campus",
+  "link": "https://police.umbc.edu/"
+},
+{
+  "question": "Does UMBC provide help for students facing academic stress?",
+  "answer": "Yes. The Counseling Center, peer support groups, academic advisors, and wellness programs offer help for stress management, time balance, and mental well-being.",
+  "topic": "Support",
+  "link": "https://counseling.umbc.edu/"
+},
+{
+  "question": "Who is the President of UMBC?",
+  "answer": "The President of UMBC is Valerie Sheares Ashby.",
+  "topic": "Administration",
+  "link": "https://catalog.umbc.edu/content.php?catoid=41&navoid=2940"
+},
+{
+  "question": "How many academic programs does UMBC offer?",
+  "answer": "UMBC offers around 300 academic programs across undergraduate and graduate levels, spanning STEM, arts, humanities, education, business, and social sciences.",
+  "topic": "Academics",
+  "link": "https://umbc.edu/programs/"
+},
+{
+  "question": "What undergraduate degree types does UMBC offer?",
+  "answer": "UMBC offers majors, minors, certificates, concentrations, and pre-professional tracks at the undergraduate level.",
+  "topic": "Academics",
+  "link": "https://umbc.edu/programs/?degree_level=undergraduate"
+},
+{
+  "question": "What graduate degree types does UMBC offer?",
+  "answer": "UMBC offers master's degrees, Ph.D. programs, graduate certificates, and professional programs across multiple fields.",
+  "topic": "Academics",
+  "link": "https://umbc.edu/programs/?degree_level=graduate"
+},
+{
+  "question": "How many undergraduate programs does UMBC have?",
+  "answer": "UMBC offers 193 undergraduate programs across a wide range of disciplines.",
+  "topic": "Academics",
+  "link": "https://umbc.edu/programs/?degree_level=undergraduate"
+},
+{
+  "question": "How many graduate programs does UMBC have?",
+  "answer": "UMBC offers 106 graduate programs including master's, Ph.D., and graduate certificate programs.",
+  "topic": "Academics",
+  "link": "https://umbc.edu/programs/?degree_level=graduate"
+},
+{
+  "question": "Where can students explore majors or get advising about choosing a major?",
+  "answer": "The Office for Academic and Pre-Professional Advising helps students explore majors, understand general education requirements, and plan academic pathways.",
+  "topic": "Academics",
+  "link": "https://advising.umbc.edu/"
+},
+{
+  "question": "Does UMBC offer pre-professional tracks?",
+  "answer": "Yes. UMBC offers pre-professional tracks including Pre-Med, Pre-Dental, Pre-Law, Pre-Nursing, Pre-Pharmacy, Pre-PA, Pre-PT, Pre-Chiropractic, and more.",
+  "topic": "Academics",
+  "link": ""
+},
+{
+  "question": "Where is UMBC located?",
+  "answer": "UMBC is located in Catonsville, Maryland, near Baltimore and Washington, D.C., providing access to major research, technology, and professional hubs.",
+  "topic": "Campus",
+  "link": "https://umbc.edu/about/"
+},
+{
+  "question": "What is the Graduate School’s application link?",
+  "answer": "Graduate applications are completed online through CollegeNET, UMBC’s secure graduate application portal.",
+  "topic": "Graduate Admissions",
+  "link": "https://gradschool.umbc.edu/apply/"
+},
+{
+  "question": "What are the general deadlines for graduate admissions?",
+  "answer": "Deadlines vary by program, but most graduate applications are reviewed for Fall and Spring with decisions issued 6–8 weeks after submission.",
+  "topic": "Graduate Admissions",
+  "link": "https://umbc.edu/admissions/graduate/apply-now/"
+},
+{
+  "question": "How long do master's students have to complete their degree?",
+  "answer": "Master’s students at UMBC have up to five years to complete all degree requirements.",
+  "topic": "Graduate School",
+  "link": "https://gradschool.umbc.edu/reqs/masters/"
+},
+{
+  "question": "How many credits are required for a master’s degree at UMBC?",
+  "answer": "Most master's programs require a minimum of 30 credits, although some programs may require more.",
+  "topic": "Graduate School",
+  "link": "https://gradschool.umbc.edu/reqs/masters/"
+},
+{
+  "question": "Does UMBC accept thesis and non-thesis options for master's programs?",
+  "answer": "Yes. Many programs offer both thesis and non-thesis options depending on the student's goals.",
+  "topic": "Graduate School",
+  "link": ""
+},
+{
+  "question": "How do new graduate students complete orientation?",
+  "answer": "Graduate orientation is offered online through Blackboard. Students enroll in the 'Graduate School Orientation' organization using the access code GRADORIENTATION.",
+  "topic": "Graduate School",
+  "link": "https://gradschool.umbc.edu/students/orientation/"
+},
+{
+  "question": "Is there a separate orientation for international graduate students?",
+  "answer": "Yes. ISSS hosts a dedicated orientation for international students covering immigration, campus resources, and cultural adjustment.",
+  "topic": "International Students",
+  "link": "https://isss.umbc.edu/"
+},
+{
+  "question": "Where can graduate students find official forms?",
+  "answer": "Graduate students can access enrollment, graduation, assistantship, and administrative forms through the Graduate School’s DocuSign-based forms portal.",
+  "topic": "Graduate School",
+  "link": "https://gradschool.umbc.edu/students/forms/"
+},
+{
+  "question": "What is the Graduate Student Association (GSA)?",
+  "answer": "GSA represents all graduate students, offering leadership opportunities, research and travel grants, community events, and peer support.",
+  "topic": "Graduate School",
+  "link": "https://gradschool.umbc.edu/gsa/"
+},
+{
+  "question": "How can graduate students contact the UMBC Graduate School?",
+  "answer": "Students can contact the Graduate School at gradschool@umbc.edu or call 410-455-2537 for support with admissions, forms, or academic issues.",
+  "topic": "Graduate School",
+  "link": "mailto:gradschool@umbc.edu"
+},
+{
+  "question": "Does UMBC hold a graduation ceremony for summer graduates?",
+  "answer": "There is no separate summer ceremony; summer graduates participate in the December commencement ceremony.",
+  "topic": "Graduate School",
+  "link": "https://gradschool.umbc.edu/students/graduation/"
+},
+
+  {
+    "question": "Who is the President of UMBC?",
+    "answer": "The President of UMBC is Valerie Sheares Ashby.",
+    "topic": "Administration",
+    "link": "https://umbc.edu"
+  },
+  {
+    "question": "How many credit hours are required for a master's degree at UMBC?",
+    "answer": "Most UMBC master's programs require a minimum of 30 credit hours, though some programs require more.",
+    "topic": "Graduate Academics",
+    "link": "https://gradschool.umbc.edu"
+  },
+  {
+    "question": "How long do students have to complete a master's degree at UMBC?",
+    "answer": "All UMBC master's degree requirements must be completed within five years.",
+    "topic": "Graduate Academics",
+    "link": "https://gradschool.umbc.edu"
+  },
+  {
+    "question": "Does UMBC require GRE for the MS in Information Systems?",
+    "answer": "No. GRE scores are not required for the MS in Information Systems program.",
+    "topic": "IS Program",
+    "link": "https://informationsystems.umbc.edu"
+  },
+  {
+    "question": "What are the deadlines for the MS in Information Systems program?",
+    "answer": "Domestic & International: Spring 2026 deadline is December 1; Fall 2026 deadline is May 1.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "Is the MS in Information Systems program at UMBC STEM-designated?",
+    "answer": "Yes. The MS in Information Systems is a STEM-designated program.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "How long does the MS in Information Systems program take?",
+    "answer": "Full-time students typically complete the program in 1.5 to 2 years.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC offer application fee waivers for the IS graduate program?",
+    "answer": "Yes. UMBC is waiving the application fee for the MS in IS and MS in HCC programs through Fall 2026. Applicants must email the program manager for a waiver code.",
+    "topic": "Graduate Admissions",
+    "link": ""
+  },
+  {
+    "question": "How can a student apply for UMBC graduate programs?",
+    "answer": "Students apply using CollegeNET, UMBC’s online application portal. A $50 fee is required unless waived by the department.",
+    "topic": "Graduate Admissions",
+    "link": "https://applyweb.com/apply/umbcg2"
+  },
+  {
+    "question": "How long do admissions decisions take for UMBC graduate programs?",
+    "answer": "Decisions typically take 6–8 weeks after the program deadline.",
+    "topic": "Graduate Admissions",
+    "link": ""
+  },
+  {
+    "question": "How do students access UMBC's online graduate orientation?",
+    "answer": "Graduate orientation is completed on Blackboard by searching for 'Graduate School Orientation' in Organizations and enrolling with the code GRADORIENTATION.",
+    "topic": "Orientation",
+    "link": "https://gradschool.umbc.edu/students/orientation/"
+  },
+  {
+    "question": "Is there a separate orientation for international graduate students at UMBC?",
+    "answer": "Yes. UMBC’s International Student and Scholar Services (ISSS) provides a separate orientation for international students.",
+    "topic": "Orientation",
+    "link": "https://isss.umbc.edu"
+  },
+  {
+    "question": "What is the Graduate Student Association (GSA) at UMBC?",
+    "answer": "The GSA represents and supports all graduate students, offering leadership opportunities, grants, events, and peer support.",
+    "topic": "Graduate Life",
+    "link": "https://gradschool.umbc.edu/gsa/"
+  },
+  {
+    "question": "What forms do graduate students commonly use at UMBC?",
+    "answer": "Common forms include enrollment changes, transfer credit forms, program plan changes, deferral requests, and graduation forms.",
+    "topic": "Graduate Academics",
+    "link": "https://gradschool.umbc.edu/students/forms/"
+  },
+  {
+    "question": "Does UMBC allow students to defer their master's program admission?",
+    "answer": "Yes. Master's admission may be deferred for up to one year using the official UMBC deferral form.",
+    "topic": "Graduate Admissions",
+    "link": ""
+  },
+  {
+    "question": "What specializations are available in the MS in Information Systems program?",
+    "answer": "Specializations include Artificial Intelligence, Data Science, and User Experience Design.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "How many credits are required for the MS in Information Systems at UMBC?",
+    "answer": "The MS in IS requires 39 credits, including fundamentals, core courses, and electives.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "Can non-computing majors apply to the MS in Information Systems program?",
+    "answer": "Yes. Students from non-computing backgrounds may be admitted but may need to complete foundational courses.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "Are assistantships available for IS graduate students?",
+    "answer": "Yes. Students may apply for teaching assistantships, research assistantships, or grader positions.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  
+  {
+    "question": "What is the structure of the MS in Information Systems program?",
+    "answer": "The MS in IS is a 39-credit program that includes fundamentals, core courses, and electives. Students start with programming, database, and networking fundamentals, then take core systems courses, and finally choose electives or a thesis.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "What foundational courses are required in the MS in Information Systems program?",
+    "answer": "Fundamentals include IS 600 (Programming), IS 610 (Database Development), and IS 650 (Data Communications and Networks). These may be waived with prior academic experience.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "What core courses are required for the MS in Information Systems?",
+    "answer": "Core courses include IS 601 (Management Information Systems), IS 603 (Decision Technology Systems), IS 620 (Advanced Database Project), and IS 636 (Systems Analysis and Design).",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "How many electives are required in the MS in Information Systems program?",
+    "answer": "Students must complete 18 elective credits, including courses from approved IS, HCC, or selected external courses.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "Can students waive foundational courses in the IS program?",
+    "answer": "Yes. Fundamentals may be waived if a student completed equivalent undergraduate courses, such as IS 147, IS 410, or IS 450 at UMBC.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "What GPA is required in the MS in Information Systems program?",
+    "answer": "Students must maintain at least a 3.0 GPA to remain in good standing.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "How many courses can graduate students take per semester?",
+    "answer": "IS graduate students may take a maximum of three courses per semester unless they receive advisor approval.",
+    "topic": "Graduate Academics",
+    "link": ""
+  },
+  {
+    "question": "Can MS in IS students take external electives?",
+    "answer": "Yes. Students may take up to two approved external electives, including online MS program courses, with prior advisor approval.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "Can MS in IS students take online MS courses?",
+    "answer": "Yes. Students may take up to two pre-approved online MS IS courses, depending on space availability.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "How does a student get approval for an external elective?",
+    "answer": "Students must email the Graduate Program Director with the course description and syllabus if the course is not already on the approved list.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "Can students take independent study in the MS in IS program?",
+    "answer": "Yes. Students may take one independent study course that counts as an elective, typically near the end of their degree.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "How does the MS thesis option work?",
+    "answer": "Students choosing the thesis route must complete IS 799 across two semesters, select a thesis advisor, form a 3-member committee, and complete a thesis defense.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "What happens if a student earns multiple low grades?",
+    "answer": "Graduate students may be recommended for dismissal after earning three Cs, one D, or one F in graduate coursework.",
+    "topic": "Graduate Academics",
+    "link": ""
+  },
+  {
+    "question": "What tracks are available in the MS in IS program?",
+    "answer": "Students may choose tracks in Artificial Intelligence, Data Science, or User Experience Design. Each track requires 3 courses (9 credits).",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "Are program tracks required in the MS in IS?",
+    "answer": "No. Tracks are optional but appear on the student’s transcript if completed.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "How do students enroll in an IS program track?",
+    "answer": "Students fill out the official Track Selection Form after completing fundamentals and core courses.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "What courses are included in the Artificial Intelligence track?",
+    "answer": "Courses include IS 707, IS 725, IS 733, IS 755, IS 757, IS 790, and approved special topics or independent study courses.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "What courses are included in the Data Science track?",
+    "answer": "Courses include IS 620, IS 651, IS 698, IS 722, IS 733, IS 734, IS 777, IS 789, and approved electives.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "What courses are included in the UX Design track?",
+    "answer": "Courses include HCC 629, HCC 729, HCC 710, additional HCC electives, and approved IS special topics or independent studies.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  {
+    "question": "What is required for CPT in the IS department?",
+    "answer": "Students must follow the IS department CPT approval process, which includes advisor approval and meeting Graduate School eligibility rules.",
+    "topic": "IS Program",
+    "link": ""
+  },
+  
+  {
+    "question": "What are the admission deadlines for the MS in Information Systems program?",
+    "answer": "For Spring 2026, the deadline is December 1 for both domestic and international students. For Fall 2026, the deadline is May 1 for domestic students and May 1 for international applicants.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Are GRE scores required for the MS in Information Systems program?",
+    "answer": "No. GRE scores are not required for admission to the MS in Information Systems program.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Is the MS in Information Systems program STEM-designated?",
+    "answer": "Yes. The MS in Information Systems is a recognized STEM program, allowing international students to apply for extended OPT.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How long does it typically take to complete the MS in Information Systems degree?",
+    "answer": "Full-time students typically complete the program in 1.5 to 2 years.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Is the application fee waived for the MS in IS program?",
+    "answer": "Yes. Through Fall 2026, the MS in Information Systems and MS in Human-Centered Computing programs offer an application fee waiver. Students should email the Graduate Program Manager to get the code.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How can students apply to UMBC graduate programs?",
+    "answer": "Students apply online through the CollegeNET application portal, where they create an account, submit materials, and pay the application fee if applicable.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How long does UMBC take to release admission decisions?",
+    "answer": "Most application decisions take around 6–8 weeks after the program deadline, depending on application volume.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What English proficiency tests does UMBC accept?",
+    "answer": "UMBC accepts TOEFL, IELTS, PTE Academic, and Duolingo English Test. Minimum scores include TOEFL 80 iBT, IELTS 6.5, PTE 53, and Duolingo 115.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How can I submit official transcripts to UMBC?",
+    "answer": "Electronic transcripts should be sent to the designated UMBC Graduate School staff. UMBC also accepts WES ICAP course-by-course evaluations.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How many letters of recommendation are required?",
+    "answer": "Two letters of recommendation are required for the MS in Information Systems application.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Can students from non-computing majors apply to the MS in Information Systems?",
+    "answer": "Yes. Students from non-computing backgrounds may apply but will need to complete 9 credits of fundamentals unless waived by the Graduate Program Director.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How can I defer my admission to a future semester?",
+    "answer": "Students may defer admission for up to one year by completing the official Deferral Form for Master's Students on the Graduate School website.",
+    "topic": "Admissions",
+    "link": "https://gradschool.umbc.edu/students/forms/"
+  },
+  {
+    "question": "Where can I find the UMBC graduate orientation?",
+    "answer": "Graduate orientation is available online in Blackboard. Students must search 'Graduate School Orientation' under Organizations and enroll with the access code GRADORIENTATION.",
+    "topic": "Orientation",
+    "link": ""
+  },
+  {
+    "question": "Is there a separate orientation for international students?",
+    "answer": "Yes. The ISSS office hosts a dedicated orientation for international students covering immigration, visa rules, and campus support.",
+    "topic": "Orientation",
+    "link": "https://isss.umbc.edu/"
+  },
+  {
+    "question": "Do departments offer their own program-specific orientations?",
+    "answer": "Yes. Many academic departments host separate orientations and students should contact their department directly for details.",
+    "topic": "Orientation",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC offer campus tours for graduate students?",
+    "answer": "Yes. Graduate students can register for guided campus tours during fall and spring semesters.",
+    "topic": "Campus",
+    "link": ""
+  },
+  {
+    "question": "What is the Graduate Student Association (GSA) at UMBC?",
+    "answer": "The GSA advocates for graduate students, offering leadership opportunities, grants, events, and community support.",
+    "topic": "GSA",
+    "link": ""
+  },
+  {
+    "question": "What resources does the GSA provide?",
+    "answer": "The GSA provides professional development grants, writing tutoring, community events, and platforms for discussing graduate student experiences.",
+    "topic": "GSA",
+    "link": ""
+  },
+  {
+    "question": "How can students join the GSA mailing list?",
+    "answer": "Graduate students can join the GSA mailing list through myUMBC to receive updates on events and opportunities.",
+    "topic": "GSA",
+    "link": ""
+  },
+  {
+    "question": "Where can graduate students find important academic forms?",
+    "answer": "Forms such as enrollment changes, program plan changes, transfer of credits, and graduation documents are found on the Graduate School’s forms page.",
+    "topic": "Graduate Academics",
+    "link": "https://gradschool.umbc.edu/students/forms/"
+  },
+  {
+    "question": "What forms are available for current graduate students?",
+    "answer": "Forms include enrollment change requests, program plan changes, credit transfers, undergraduate-to-graduate credit approval, and withdrawal forms.",
+    "topic": "Graduate Academics",
+    "link": ""
+  },
+  {
+    "question": "How does graduation work for master’s students?",
+    "answer": "Students must register for at least one credit in their final semester, apply for graduation by the deadline, submit the thesis (if applicable), and complete required forms before commencement.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When are graduation application windows open?",
+    "answer": "Fall: July 1–Sept 15, Spring: Dec 1–Feb 15, Summer: April 1–June 15.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When are thesis approval deadlines?",
+    "answer": "Thesis approval deadlines are Dec 1 for Fall, May 1 for Spring, and Aug 1 for Summer.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When do students receive diplomas?",
+    "answer": "Diplomas are mailed approximately eight weeks after the conferral date.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "What are the conferral dates at UMBC?",
+    "answer": "Degrees are conferred on the day of commencement for Spring and Fall, and on August 15 for Summer graduates.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "What are the degree requirements for the MS in Information Systems program?",
+    "answer": "The program requires 39 credits, including 9 credits of fundamentals, 12 credits of core courses, and 18 elective credits. Students must maintain at least a 3.0 GPA.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What are the fundamental courses for the MS in IS program?",
+    "answer": "Fundamentals include IS 600 (Object-Oriented Programming Concepts), IS 610 (Database Program Development), and IS 650 (Data Communications and Networks). These may be waived based on prior coursework.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What are the core courses required for the MS in IS program?",
+    "answer": "Core courses include IS 601 (Management Information Systems), IS 603 (Decision Technology Systems), IS 620 (Advanced Database Project), and IS 636 (Structured Systems Analysis and Design).",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How many elective credits are required for the MS in IS program?",
+    "answer": "Students must complete 18 credits of electives, including the option to pursue one or more specialization tracks.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What specialization tracks are available in the MS in IS program?",
+    "answer": "Students can specialize in Artificial Intelligence, Data Science, or User Experience Design. Each track requires 3 courses (9 credits).",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How do I enroll in a specialization track?",
+    "answer": "Students should complete fundamentals and core courses first, consult their advisor, then submit the Track Selection Form for the chosen specialization.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can I complete more than one specialization track?",
+    "answer": "Yes. Students may enroll in multiple tracks as long as they complete the required courses for each.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Does a completed track appear on my transcript?",
+    "answer": "Yes. Once you complete a track’s course requirements, the track is officially added to your transcript.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What courses are part of the Artificial Intelligence track?",
+    "answer": "AI track options include IS 707, IS 725, IS 733, IS 755, IS 757, IS 698, IS 700, IS 790, and other approved courses.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What courses are part of the Data Science track?",
+    "answer": "Data Science track courses include IS 620, IS 651, IS 698, IS 722, IS 733, IS 734, IS 777, IS 789, IS 700, and other approved courses.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What courses are part of the User Experience Design track?",
+    "answer": "UX track courses include HCC 629, IS 698, HCC 729 or HCC 710, HCC electives, IS 700, and advisor-approved HCC courses.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can independent study courses count toward tracks?",
+    "answer": "Yes, IS 700 Independent Study can count toward a track, but each independent study can only count toward one track.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How does the thesis option work for the MS in IS program?",
+    "answer": "Students choosing the thesis option must complete IS 799 over two semesters, work with a thesis advisor, form a three-member committee, and defend their thesis.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How many IS 799 thesis credits are required?",
+    "answer": "Students must complete 6 credits of IS 799, typically split as 3 credits per semester.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can MS students take courses outside the IS department?",
+    "answer": "Yes. Up to two approved external electives may count toward requirements. These must be pre-approved by the Graduate Program Director.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can MS IS students take courses from the online MS program?",
+    "answer": "Students can take up to two approved online MS courses, subject to availability, but will pay on-campus tuition rates.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Are students allowed to take more than three classes per semester?",
+    "answer": "No. Students need written permission from their advisor and the Graduate Program Director to take more than three courses in a semester.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "Can IS 600, IS 610, or IS 650 be used as electives?",
+    "answer": "No. These fundamentals cannot count as electives or toward the 30 credit minimum if they were waived.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "Can courses that were cross-listed with undergraduate courses be taken again for MS credit?",
+    "answer": "No. Any course already taken as an undergraduate equivalent cannot be retaken in graduate school for credit.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "Can MS students take more than one independent study?",
+    "answer": "Students may take only ONE independent study course, and it counts as one elective.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "What happens if a student earns multiple low grades?",
+    "answer": "Students may face dismissal after earning three Cs, one D, or one F in any graduate course.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "Are audited or pass/fail classes counted toward the degree?",
+    "answer": "No. Courses taken as audit or pass/fail do not count toward MS degree requirements.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "What is the CPT approval process for IS students?",
+    "answer": "Students must follow the IS department’s CPT guidelines and receive approval before beginning off-campus internships.",
+    "topic": "CPT",
+    "link": ""
+  },
+  {
+    "question": "Can international students start CPT immediately after joining?",
+    "answer": "No. International students must meet ISSS and departmental eligibility, typically including completing one academic year before CPT.",
+    "topic": "CPT",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC follow standard graduate tuition rates?",
+    "answer": "Yes. The MS in IS program uses UMBC’s standard graduate tuition and fee rates. Students can calculate estimates using the Tuition Calculator.",
+    "topic": "Tuition",
+    "link": ""
+  },
+  
+  {
+    "question": "What are the application deadlines for the MS in Information Systems program?",
+    "answer": "The deadlines for both domestic and international students are May 1 for Fall and December 1 for Spring.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Are GRE scores required for the MS in Information Systems program?",
+    "answer": "No. The GRE is not required for admission to the MS IS program.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What English proficiency tests does UMBC accept for international students?",
+    "answer": "UMBC accepts TOEFL, IELTS, PTE Academic, and Duolingo English Test. Minimum scores: TOEFL 80 iBT, IELTS 6.5, PTE 53, Duolingo 115.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What is UMBC’s TOEFL code?",
+    "answer": "The TOEFL institution code for UMBC is 5835.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How many letters of recommendation are required for the MS IS application?",
+    "answer": "Two letters of recommendation are required as part of the application.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What documents are required to apply for the MS in Information Systems program?",
+    "answer": "Required materials include transcripts, two recommendation letters, resume, statement of purpose, and English proficiency scores for international students.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Do applicants need semester-by-semester transcripts?",
+    "answer": "Yes. Applicants must provide detailed semester-by-semester transcripts in addition to consolidated transcripts.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How long does it take to receive an admission decision?",
+    "answer": "Admission decisions usually take 6–8 weeks after the program deadline, depending on the number of applications.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Can I defer my admission to a later semester?",
+    "answer": "Yes. Admission can be deferred for up to one year by completing the Deferral Form for Master's Students.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How do I request to switch my application to the MS Information Systems program?",
+    "answer": "Email the Graduate School at gradschool@umbc.edu and request to change your application program to MS IS.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC offer application fee waivers for the MS IS program?",
+    "answer": "Yes. The MS in Information Systems and the MS in Human-Centered Computing programs offer fee waivers through Fall 2026. Applicants must email the graduate program manager for a waiver code.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How long does it take to complete the MS IS program?",
+    "answer": "Full-time students typically complete the program in 1.5 to 2 years.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Are assistantships available for MS in Information Systems students?",
+    "answer": "Yes. Students may apply for research assistantships, teaching assistantships, or grader positions depending on departmental availability.",
+    "topic": "Careers",
+    "link": ""
+  },
+  {
+    "question": "What types of assistantships does UMBC offer?",
+    "answer": "UMBC offers research assistantships, teaching assistantships, and grader roles, which include stipends and may include tuition benefits.",
+    "topic": "Careers",
+    "link": ""
+  },
+  {
+    "question": "How do I find assistantship opportunities in the IS department?",
+    "answer": "Assistantship opportunities are shared through departmental emails, faculty announcements, and the IS department’s opportunities webpage.",
+    "topic": "Careers",
+    "link": ""
+  },
+  {
+    "question": "Is the MS in Information Systems a STEM-designated program?",
+    "answer": "Yes. The MS IS program is officially STEM-designated.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Do international students need to take English tests if they studied in the U.S.?",
+    "answer": "Students who completed a degree in the U.S. may not need English test scores, but UMBC may request proof of English proficiency if needed.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How do I access graduate student orientation at UMBC?",
+    "answer": "Graduate orientation is available online through Blackboard. Students join by searching 'Graduate School Orientation' under Organizations and using the access code GRADORIENTATION.",
+    "topic": "Orientation",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC have a separate orientation for international students?",
+    "answer": "Yes. The International Student and Scholar Services (ISSS) office hosts a separate orientation for international students.",
+    "topic": "Orientation",
+    "link": ""
+  },
+  {
+    "question": "How do I join departmental orientation for my program?",
+    "answer": "Students must contact their academic department directly to check if a program-specific orientation is offered.",
+    "topic": "Orientation",
+    "link": ""
+  },
+  {
+    "question": "What does the Graduate Student Association (GSA) provide?",
+    "answer": "GSA offers leadership opportunities, research grants, events, student support resources, and advocacy for graduate students.",
+    "topic": "Support",
+    "link": ""
+  },
+  {
+    "question": "How can graduate students receive GSA announcements?",
+    "answer": "Students must follow the GSA page on myUMBC to opt into notifications and updates.",
+    "topic": "Support",
+    "link": ""
+  },
+  {
+    "question": "Where can I find UMBC graduate forms such as credit transfers or withdrawals?",
+    "answer": "Graduate forms are available through the Graduate School Forms page and many are completed electronically through DocuSign.",
+    "topic": "Support",
+    "link": ""
+  },
+  {
+    "question": "Can newly admitted students request a program plan change?",
+    "answer": "No. Students must complete at least one semester of coursework before submitting a program plan change form.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "What is required to withdraw from UMBC as a graduate student?",
+    "answer": "Students must complete the official 'Withdraw from UMBC' form available via DocuSign or PDF.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC allow undergraduates to take graduate courses?",
+    "answer": "Yes. Undergraduates may take graduate courses for credit using the 'Approval for Undergraduates to Take Graduate Courses' form.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What is required to transfer credits into the MS IS program?",
+    "answer": "Students must submit a Transfer of Credits form via DocuSign, along with transcripts and course documentation.",
+    "topic": "Policies",
+    "link": ""
+  },
+
+  {
+    "question": "How many credits are required for the MS in Information Systems?",
+    "answer": "The MS in Information Systems requires 39 credits, including fundamentals, core courses, and electives.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can foundational MS IS courses be waived?",
+    "answer": "Yes. IS 600, IS 610, and IS 650 may be waived if a student completed equivalent undergraduate courses such as IS 147, IS 410, or IS 450.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How many foundations courses must MS IS students complete?",
+    "answer": "Students typically complete 9 credits of foundational courses unless waived for previous academic experience.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What are the core courses in the MS Information Systems program?",
+    "answer": "Core courses include IS 601 (Management Information Systems), IS 603 (Decision Technology Systems), IS 620 (Advanced Database Project), and IS 636 (Structured Systems Analysis and Design).",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can MS IS students take electives before finishing foundational courses?",
+    "answer": "Only with advisor permission. Students may take a limited number of core and elective courses prior to completing foundations.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "How many electives are required for the MS IS program?",
+    "answer": "The MS in Information Systems requires 18 credits of electives, including options to specialize in AI, Data Science, or UX.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can students take external elective courses outside the IS department?",
+    "answer": "Yes. Students may take up to two approved external courses, but pre-approval from the Graduate Program Director is required.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "Which courses are considered external electives?",
+    "answer": "Courses outside the on-campus IS and HCC programs are considered external electives, including online MS program courses.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "Can students take online MS IS courses as part of the on-campus degree?",
+    "answer": "Yes. Students may take up to two approved online MS courses, depending on space availability.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "Can MS IS students audit courses?",
+    "answer": "No. Audited courses cannot count toward MS IS degree requirements.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "Can MS IS students take courses on a Pass/Fail basis?",
+    "answer": "No. MS IS students may not take courses under the Pass/Fail option.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "How many independent study courses can MS IS students count toward their degree?",
+    "answer": "Students may count only one independent study course (IS 700) toward their degree.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "What GPA do students need to maintain in the MS IS program?",
+    "answer": "MS IS students must maintain a minimum 3.0 GPA to remain in good academic standing.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "When does UMBC recommend taking a program track?",
+    "answer": "Students are encouraged to choose a track—AI, Data Science, or UX—after completing foundational and core courses.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What is required to complete an MS IS program track?",
+    "answer": "Each track requires 9 credits (three elective courses) within the chosen specialization area.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Do MS IS tracks appear on transcripts?",
+    "answer": "Yes. Completed tracks appear on the student's transcript and can strengthen resumes or PhD applications.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can students enroll in more than one track?",
+    "answer": "Yes. Students may enroll in multiple tracks if they complete all required courses for each one.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What is the thesis option in the MS IS program?",
+    "answer": "Students choosing the thesis route must complete IS 799 over two semesters and defend their thesis before a faculty committee.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How many credits of thesis work must MS IS students complete?",
+    "answer": "Students must complete 6 credits of IS 799, typically taken as 3 credits per semester.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How does a student form a thesis committee?",
+    "answer": "Students must select a thesis advisor and assemble a three-member committee to review and evaluate their thesis work.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can waived fundamentals courses count toward the MS credit requirement?",
+    "answer": "No. Any waived fundamental courses do not count toward the 39 credit requirement.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "Can students take cross-listed courses for graduate credit?",
+    "answer": "No. Students cannot take graduate-level versions of courses they already completed as cross-listed undergraduate courses.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "How many courses can a graduate student take per semester?",
+    "answer": "Graduate students may take no more than three courses per semester without advisor and program director approval.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "When should MS IS students request approval for external electives?",
+    "answer": "Students should request approval before registering, especially if the course is not on the pre-approved list.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "How many credits are required for a master’s degree at UMBC?",
+    "answer": "A minimum of 30 credits is required for most UMBC master’s programs, though some programs require additional credits.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "How long do students have to finish a master’s degree at UMBC?",
+    "answer": "Students must complete all master’s degree requirements within five years from the date of admission.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "Is a thesis required for UMBC master’s programs?",
+    "answer": "Some programs offer both thesis and non-thesis options. Students should check with their department to confirm requirements.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When should students register during their final semester?",
+    "answer": "Students must register for at least one credit before the close of general registration in the semester they intend to graduate.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "Is summer registration required for graduating students?",
+    "answer": "Summer registration is only required if a student was not registered during the previous spring or if the student holds a summer graduate assistantship.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "What are the application periods for graduation at UMBC?",
+    "answer": "Graduation application windows are: Fall (July 1–September 15), Spring (December 1–February 15), and Summer (April 1–June 15).",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When must thesis committee nominations be submitted?",
+    "answer": "Thesis committee nomination forms are due two months before the final exam.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When is the thesis readiness certification due?",
+    "answer": "The Certification of Readiness to Defend must be submitted at least two weeks before the thesis defense.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When must the thesis examining committee report be submitted?",
+    "answer": "The Report of the Examining Committee must be submitted within two business days after the oral defense.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "What is the deadline to submit the final thesis to ProQuest?",
+    "answer": "Thesis submission deadlines are: Fall (December 1), Spring (May 1), and Summer (August 1).",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "What is the Certification of Completion deadline?",
+    "answer": "Certification of Completion deadlines are: Fall (December 20), Spring (May 19), and Summer (August 19).",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When are UMBC commencement ceremonies held?",
+    "answer": "Commencement ceremonies occur in December for fall graduates and in spring for spring graduates. There is no summer ceremony.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When is the degree conferral date posted on transcripts?",
+    "answer": "The conferral date matches the commencement date for Fall and Spring; Summer degrees are conferred on August 15.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When are diplomas mailed to graduates?",
+    "answer": "Diplomas are typically mailed about eight weeks after the degree conferral date.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "Do students need to order regalia for commencement?",
+    "answer": "Yes. Students must order regalia through UMBC’s approved vendor. Late orders incur an additional fee.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "Who is the UMBC president?",
+    "answer": "The current president of UMBC is Valerie Sheares Ashby.",
+    "topic": "Administration",
+    "link": ""
+  },
+  {
+    "question": "What should students do if they owe a university balance before graduation?",
+    "answer": "Students must clear all outstanding university balances with the cashier before final degree processing.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "What is the required exam paperwork for thesis students?",
+    "answer": "Thesis students must submit the Nomination of Members for the Final Master’s Examination Committee and the Readiness to Defend certification.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC accept electronic theses?",
+    "answer": "Yes. All UMBC theses must be submitted electronically to ProQuest.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "How long before the thesis defense must the committee receive the thesis?",
+    "answer": "The thesis must be submitted to the committee at least four weeks before the defense.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "How many credits are required for a master’s degree at UMBC?",
+    "answer": "A minimum of 30 credits is required for most UMBC master’s programs, though some programs require additional credits.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "How long do students have to finish a master’s degree at UMBC?",
+    "answer": "Students must complete all master’s degree requirements within five years from the date of admission.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "Is a thesis required for UMBC master’s programs?",
+    "answer": "Some programs offer both thesis and non-thesis options. Students should check with their department to confirm requirements.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When should students register during their final semester?",
+    "answer": "Students must register for at least one credit before the close of general registration in the semester they intend to graduate.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "Is summer registration required for graduating students?",
+    "answer": "Summer registration is only required if a student was not registered during the previous spring or if the student holds a summer graduate assistantship.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "What are the application periods for graduation at UMBC?",
+    "answer": "Graduation application windows are: Fall (July 1–September 15), Spring (December 1–February 15), and Summer (April 1–June 15).",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When must thesis committee nominations be submitted?",
+    "answer": "Thesis committee nomination forms are due two months before the final exam.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When is the thesis readiness certification due?",
+    "answer": "The Certification of Readiness to Defend must be submitted at least two weeks before the thesis defense.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When must the thesis examining committee report be submitted?",
+    "answer": "The Report of the Examining Committee must be submitted within two business days after the oral defense.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "What is the deadline to submit the final thesis to ProQuest?",
+    "answer": "Thesis submission deadlines are: Fall (December 1), Spring (May 1), and Summer (August 1).",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "What is the Certification of Completion deadline?",
+    "answer": "Certification of Completion deadlines are: Fall (December 20), Spring (May 19), and Summer (August 19).",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When are UMBC commencement ceremonies held?",
+    "answer": "Commencement ceremonies occur in December for fall graduates and in spring for spring graduates. There is no summer ceremony.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When is the degree conferral date posted on transcripts?",
+    "answer": "The conferral date matches the commencement date for Fall and Spring; Summer degrees are conferred on August 15.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When are diplomas mailed to graduates?",
+    "answer": "Diplomas are typically mailed about eight weeks after the degree conferral date.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "Do students need to order regalia for commencement?",
+    "answer": "Yes. Students must order regalia through UMBC’s approved vendor. Late orders incur an additional fee.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "Who is the UMBC president?",
+    "answer": "The current president of UMBC is Valerie Sheares Ashby.",
+    "topic": "Administration",
+    "link": ""
+  },
+  {
+    "question": "What should students do if they owe a university balance before graduation?",
+    "answer": "Students must clear all outstanding university balances with the cashier before final degree processing.",
+    "topic": "Policies",
+    "link": ""
+  },
+  {
+    "question": "What is the required exam paperwork for thesis students?",
+    "answer": "Thesis students must submit the Nomination of Members for the Final Master’s Examination Committee and the Readiness to Defend certification.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC accept electronic theses?",
+    "answer": "Yes. All UMBC theses must be submitted electronically to ProQuest.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "How long before the thesis defense must the committee receive the thesis?",
+    "answer": "The thesis must be submitted to the committee at least four weeks before the defense.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "What are the admission requirements for UMBC graduate programs?",
+    "answer": "Applicants need a bachelor's degree from an accredited university, English language proficiency if applicable, a statement of purpose, recommendation letters, and official transcripts. Some programs may require additional documentation depending on the field.",
+    "topic": "Admissions",
+    "link": "https://gradschool.umbc.edu/"
+  },
+  {
+    "question": "Are three-year bachelor’s degrees accepted for UMBC graduate admission?",
+    "answer": "Yes. UMBC accepts accredited three-year bachelor's degrees for admission into most graduate programs.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Is an English proficiency test required for UMBC graduate admissions?",
+    "answer": "Yes. Applicants whose native language is not English must submit TOEFL, IELTS, PTE, or Duolingo scores unless they have earned a degree from a U.S. institution.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What are the minimum TOEFL requirements for UMBC graduate programs?",
+    "answer": "Minimum TOEFL scores are 80 for iBT, 213 for computer-based, or 550 for paper-based exams. Applicants taking TOEFL iBT after January 2026 will need a minimum section score of 4.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What is the minimum IELTS score required for UMBC?",
+    "answer": "UMBC requires a minimum IELTS overall score of 6.5 for graduate admission.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What is the minimum PTE Academic score required at UMBC?",
+    "answer": "UMBC requires a minimum PTE Academic score of 53 for graduate admission.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC accept the Duolingo English Test?",
+    "answer": "Yes. UMBC accepts Duolingo scores, and the minimum required score is 115 for graduate applicants.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What is UMBC’s institution code for TOEFL?",
+    "answer": "UMBC’s TOEFL institution code is 5835. No department code is needed.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How many letters of recommendation are required for UMBC graduate applications?",
+    "answer": "Most programs require two letters of recommendation, submitted electronically through the online application system.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What should be included in the Statement of Purpose?",
+    "answer": "The Statement of Purpose should outline academic goals, professional background, motivation for the graduate program, and relevant skills or experiences.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What transcripts are required for UMBC graduate applications?",
+    "answer": "Applicants must submit official semester-by-semester transcripts. Consolidated transcripts alone are not enough—both are required.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC accept WES evaluations instead of transcripts?",
+    "answer": "Yes. UMBC accepts WES ICAP Course-by-Course evaluations as fulfillment of the official transcript requirement.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Where should electronic transcripts be sent for domestic applicants?",
+    "answer": "Domestic applicants should have electronic transcripts sent to Kathie Nee at nee@umbc.edu.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Where should electronic transcripts be sent for international applicants?",
+    "answer": "International applicants should have electronic transcripts sent to Scott Philips at scophi1@umbc.edu.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What happens if my application is incomplete by the deadline?",
+    "answer": "Incomplete applications are not reviewed, but applicants can request to have their materials considered for the next semester by emailing the Graduate Program Manager.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How long does UMBC take to release graduate admission decisions?",
+    "answer": "Typical processing time is 6–8 weeks after the program deadline, depending on application volume.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Can I defer my UMBC graduate admission?",
+    "answer": "Yes. Admission can be deferred for up to one year using the official deferral form available through the Graduate School.",
+    "topic": "Admissions",
+    "link": "https://gradschool.umbc.edu/students/forms/"
+  },
+  {
+    "question": "How do I apply to UMBC’s graduate programs?",
+    "answer": "Applications are submitted online through CollegeNET, where you create an account, upload documents, and pay the application fee.",
+    "topic": "Admissions",
+    "link": "https://gradschool.umbc.edu/apply/"
+  },
+  {
+    "question": "Is there an application fee waiver for the MS in Information Systems?",
+    "answer": "Yes. The MS in Information Systems and MS in Human-Centered Computing programs are waiving the application fee through Fall 2026. Applicants must email the program manager for the waiver code.",
+    "topic": "Admissions",
+    "link": "https://informationsystems.umbc.edu/"
+  },
+  {
+    "question": "What are the application deadlines for MS in Information Systems?",
+    "answer": "Domestic and international deadlines are December 1 for Spring admission and May 1 for Fall admission.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How many credits are required for the M.S. in Information Systems at UMBC?",
+    "answer": "The program requires 39 credits total, which include fundamentals, core courses, electives, and optional track courses.",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "What is the structure of the M.S. in Information Systems program?",
+    "answer": "The program includes fundamentals, core courses, electives, and optional specialization tracks such as AI, Data Science, and UX Design.",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "What are the fundamentals courses for the MS in Information Systems?",
+    "answer": "The fundamentals courses are IS 600 (Object-Oriented Programming Concepts), IS 610 (Database Program Development), and IS 650 (Data Communications and Networks).",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "Can fundamental courses be waived?",
+    "answer": "Yes. If a student has taken equivalent undergraduate courses such as IS 147, IS 410, or IS 450, the corresponding fundamentals may be waived with documentation.",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "Do waived fundamentals count toward the 39 required credits?",
+    "answer": "No. Waived fundamental courses cannot be counted as electives or toward the required 39 credits.",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "What are the core courses in the M.S. in IS program?",
+    "answer": "The core courses are IS 601 (Management Information Systems), IS 603 (Decision Technology Systems), IS 620 (Advanced Database Project), and IS 636 (Structured Systems Analysis and Design).",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "What if I already completed IS 425 or IS 436 at UMBC?",
+    "answer": "Students who completed IS 425 may replace IS 603 with an elective, and students who completed IS 436 may replace IS 636 with an elective.",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "How many electives are required in the program?",
+    "answer": "Students must complete 18 elective credits, which is equivalent to six elective courses.",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "Can MS students take electives outside the IS or HCC departments?",
+    "answer": "Yes, but no more than two approved external electives are allowed, and courses must appear on the approved external course list or be reviewed by the Graduate Program Director.",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "Can MS students take courses from the Online MS IS program?",
+    "answer": "Yes, up to two pre-approved online MS courses may count toward the degree, depending on seat availability.",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "Can students take more than three classes per semester?",
+    "answer": "No. Students may take a maximum of three classes per semester unless they receive permission from their advisor and the Graduate Program Director.",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "What GPA is required to remain in good academic standing?",
+    "answer": "Students must maintain a minimum 3.0 GPA (a B average) throughout the program.",
+    "topic": "Program Policies",
+    "link": ""
+  },
+  {
+    "question": "When can students be recommended for dismissal?",
+    "answer": "Students may be recommended for dismissal after earning three Cs, one D, or one F in any graduate-level course.",
+    "topic": "Program Policies",
+    "link": ""
+  },
+  {
+    "question": "Can MS students audit courses or take classes as Pass/Fail?",
+    "answer": "No. Courses taken as audit or Pass/Fail cannot count toward the MS degree requirements.",
+    "topic": "Program Policies",
+    "link": ""
+  },
+  {
+    "question": "Can MS students take an independent study?",
+    "answer": "Yes. Students may take one independent study (IS 700), typically toward the end of the degree, and it counts as one elective.",
+    "topic": "Program Details",
+    "link": ""
+  },
+  {
+    "question": "Do cross-listed undergraduate/graduate courses count toward the MS degree?",
+    "answer": "No. If a student has taken the cross-listed undergraduate version, they cannot take the graduate version for degree credit.",
+    "topic": "Program Policies",
+    "link": ""
+  },
+  {
+    "question": "Can students take multiple IS 651 lab courses for credit?",
+    "answer": "No. Students may take only one version of IS 651 (651M, 651U, or 651W) for degree credit.",
+    "topic": "Program Policies",
+    "link": ""
+  },
+  {
+    "question": "Are there restrictions on electives for former UMBC IS undergraduates?",
+    "answer": "Yes. BS IS students may not take IS 600, IS 610, or IS 650 and must substitute additional electives for IS 603 and IS 636.",
+    "topic": "Program Policies",
+    "link": ""
+  },
+  {
+    "question": "Is the MS in Information Systems program STEM-designated?",
+    "answer": "Yes. The MS in Information Systems program is officially STEM-designated.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How many credits are required to complete the MS in Information Systems?",
+    "answer": "The program requires 39 credits, including fundamentals, core courses, and electives.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How long do students have to complete the master's degree at UMBC?",
+    "answer": "Students must finish all degree requirements within five years.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How long does it take to complete the MS in Information Systems as a full-time student?",
+    "answer": "Most full-time students complete the degree in 1.5 to 2 years.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Are GRE scores required for the MS in Information Systems program?",
+    "answer": "No. GRE scores are not required for admission.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What English proficiency test scores are accepted for international students?",
+    "answer": "UMBC accepts TOEFL, IELTS, PTE Academic, and Duolingo. Minimum scores: TOEFL 80 iBT, IELTS 6.5, PTE 53, Duolingo 115.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What is UMBC’s code for sending TOEFL or GRE test scores?",
+    "answer": "UMBC’s institution code is 5835. No department code is required.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What are the application deadlines for the MS in IS program for domestic students?",
+    "answer": "Fall: May 1; Spring: December 1.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What are the application deadlines for the MS in IS program for international students?",
+    "answer": "Fall: April 1; Spring: December 1.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How can I apply for the MS in Information Systems program?",
+    "answer": "You must submit an online application through UMBC’s Graduate School portal, upload required documents, and pay the application fee.",
+    "topic": "Admissions",
+    "link": "https://gradschool.umbc.edu/apply/"
+  },
+  {
+    "question": "Is the application fee waived for the MS in Information Systems program?",
+    "answer": "Yes. The application fee is waived for MS in Information Systems and MS in Human-Centered Computing for Fall 2026 admissions. You must email the program manager to receive a waiver code.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "What documents are required for the MS in IS application?",
+    "answer": "Required documents include a statement of purpose, two recommendation letters, official transcripts, English proficiency scores (if applicable), and a completed online application.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Can students with a non-computing background apply to the MS in IS program?",
+    "answer": "Yes. Students without a computing background can apply. They may need to complete foundational courses before core coursework.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Which fundamental courses may be required for students without a tech background?",
+    "answer": "Students may need to take IS 600 (Programming Concepts), IS 610 (Database Program Development), and IS 650 (Data Communications and Networks).",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can fundamental courses be waived?",
+    "answer": "Yes. If you have taken equivalent courses previously for credit, you may request a waiver with documentation.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How many core courses are required for the MS in IS program?",
+    "answer": "The program requires 12 credits of core coursework: IS 601, IS 603, IS 620, and IS 636.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How many elective credits are required for the MS in IS program?",
+    "answer": "Students must complete 18 elective credits (six courses).",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can electives be taken outside the IS department?",
+    "answer": "Yes. Students may take up to two approved external courses with permission from their advisor and the Graduate Program Director.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can online MS IS courses count toward the on-campus program?",
+    "answer": "Yes. Students can take up to two pre-approved online MS courses toward their degree.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How many classes can a graduate student take per semester?",
+    "answer": "Graduate students may take up to three courses per semester without requiring advisor approval.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How many grades of C can result in dismissal from the program?",
+    "answer": "Students may be recommended for dismissal after earning three Cs, one D, or one F.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can MS students take courses as Pass/Fail or Audit?",
+    "answer": "No. MS students cannot take program courses as Pass/Fail or Audit.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC require registration in the semester of graduation?",
+    "answer": "Yes. Students must register for at least one credit in the semester they intend to graduate.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "What are the graduation application deadlines?",
+    "answer": "Fall: July 1–September 15; Spring: December 1–February 15; Summer: April 1–June 15.",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "When are thesis documents due for graduation?",
+    "answer": "The thesis approval sheet and final electronic thesis must be submitted by Dec 1 (Fall), May 1 (Spring), or Aug 1 (Summer).",
+    "topic": "Graduation",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC require a thesis for the MS in Information Systems?",
+    "answer": "A thesis is optional. Students choosing the thesis option must complete IS 799 over two semesters.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "What are the requirements for MS thesis students?",
+    "answer": "Students must choose a faculty advisor, form a three-member committee, complete IS 799 credits, and defend the thesis.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Can MS students take independent study courses?",
+    "answer": "Yes. Students may take one independent study (IS 700) toward their degree, typically near the end.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "How can students change their program plan?",
+    "answer": "Students must complete the Program Plan Change Approval Form after completing at least one semester.",
+    "topic": "Forms",
+    "link": ""
+  },
+  {
+    "question": "How can a student withdraw from UMBC?",
+    "answer": "Students must complete the official Withdraw from UMBC form through DocuSign.",
+    "topic": "Forms",
+    "link": ""
+  },
+  {
+    "question": "How do students defer their admission?",
+    "answer": "Students may defer their admission for up to one year by submitting the Deferral Form for Master’s Students.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Where can students find graduate student forms?",
+    "answer": "All forms, including enrollment changes, transfer credit forms, and graduation forms, are available on the Graduate School website.",
+    "topic": "Forms",
+    "link": "https://gradschool.umbc.edu/students/forms/"
+  },
+  {
+    "question": "Do new graduate students have to attend orientation?",
+    "answer": "Yes. Orientation is required and delivered online asynchronously through Blackboard.",
+    "topic": "Orientation",
+    "link": ""
+  },
+  {
+    "question": "How do students access graduate orientation on Blackboard?",
+    "answer": "Students must enroll manually by searching 'Graduate School Orientation' in the Organizations catalog and entering access code GRADORIENTATION.",
+    "topic": "Orientation",
+    "link": ""
+  },
+  {
+    "question": "Is there a separate orientation for international students?",
+    "answer": "Yes. ISSS holds an additional orientation specifically for international students.",
+    "topic": "Orientation",
+    "link": "https://isss.umbc.edu/"
+  },
+  {
+    "question": "Does UMBC offer campus tours for graduate students?",
+    "answer": "Yes. Free campus tours are available during fall and spring semesters.",
+    "topic": "Campus",
+    "link": ""
+  },
+  {
+    "question": "What is the Graduate Student Association (GSA)?",
+    "answer": "The GSA supports graduate students by offering grants, events, leadership opportunities, and peer resources.",
+    "topic": "Support",
+    "link": "https://gradschool.umbc.edu/gsa/"
+  },
+  {
+    "question": "How can students join the GSA mailing list?",
+    "answer": "Students must follow the GSA on myUMBC to receive updates about grants and events.",
+    "topic": "Support",
+    "link": ""
+  },
+  {
+    "question": "What services does the GSA offer?",
+    "answer": "The GSA offers grants, leadership opportunities, academic support, tutoring, community events, and advocacy for graduate student needs.",
+    "topic": "Support",
+    "link": ""
+  },
+  {
+    "question": "Where do students submit official electronic transcripts?",
+    "answer": "Domestic applicants send transcripts to Kathie Nee; international applicants send them to Scott Philips.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Does UMBC accept WES evaluations?",
+    "answer": "Yes. UMBC accepts WES ICAP Course-by-Course evaluations as official transcripts.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How long do admission decisions take?",
+    "answer": "Most decisions take 6–8 weeks after the program deadline, depending on the number of applications.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "How are applicants notified of their admission decision?",
+    "answer": "Students receive an email and can view their decision letter on the application portal.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Can I switch my application to the MS in IS program after applying to a different program?",
+    "answer": "Yes. Contact the Graduate School at gradschool@umbc.edu to request a program change.",
+    "topic": "Admissions",
+    "link": ""
+  },
+  {
+    "question": "Can non-majors take graduate IS or HCC courses?",
+    "answer": "Yes. Non-majors may request permission using the Non-Majors Enrollment Request Form.",
+    "topic": "Academics",
+    "link": ""
+  },
+  {
+    "question": "Does the IS department support CPT for international students?",
+    "answer": "Yes. CPT is allowed after completing one academic year and meeting departmental CPT approval requirements.",
+    "topic": "Support",
+    "link": ""
+  },
+  {
+    "question": "What master's programs does UMBC offer?",
+    "answer": "UMBC offers a wide range of graduate programs, including the Master of Science in Information Systems (MSIS), MPS in Data Science, MPS in Cybersecurity, MS in Computer Science, MA in Education, Engineering graduate programs, and several other professional master's degrees.",
+    "topic": "Graduate Programs",
+    "link": "https://gradschool.umbc.edu/programs/"
+  },
+  {
+    "question": "How can I explore graduate programs at UMBC?",
+    "answer": "You can explore all UMBC master's, doctoral, and certificate programs through the Graduate School Programs Directory. Each program page includes curriculum, deadlines, requirements, and faculty information.",
+    "topic": "Graduate Programs",
+    "link": "https://gradschool.umbc.edu/programs/"
+  },
+  {
+    "question": "How do I apply for UMBC graduate programs?",
+    "answer": "Graduate applications are submitted online through the UMBC Graduate School portal. You will need transcripts, a statement of purpose, recommendation letters, a resume, and English proficiency scores if applicable.",
+    "topic": "Graduate Admissions",
+    "link": "https://gradschool.umbc.edu/apply/"
+  },
+  {
+    "question": "What are the core courses for the MS in Information Systems?",
+    "answer": "The MSIS program requires four core courses: IS 601 (Management Information Systems), IS 603 (Decision Technology Systems), IS 620 (Advanced Database Project), and IS 636 (Structured Systems Analysis and Design).",
+    "topic": "Information Systems",
+    "link": "https://informationsystems.umbc.edu/graduate/"
+  },
+  {
+    "question": "What is the Information Systems (IS) department at UMBC?",
+    "answer": "The IS department offers undergraduate, master's, and doctoral programs focused on the intersection of business, technology, and data. Students learn programming, databases, systems analysis, project management, and data analytics.",
+    "topic": "Information Systems",
+    "link": "https://informationsystems.umbc.edu/"
+  },
+  {
+    "question": "What tracks or specializations are available in the MSIS program?",
+    "answer": "MSIS students can choose elective tracks such as Data Science, Artificial Intelligence, Cybersecurity, IT Project Management, and Human-Centered Computing.",
+    "topic": "Information Systems",
+    "link": "https://informationsystems.umbc.edu/graduate/"
+  },
+  {
+    "question": "What documents do international students need for admission?",
+    "answer": "International students must submit official transcripts, English proficiency scores (TOEFL, IELTS, or Duolingo), financial documents for I-20 issuance, a passport copy, and any required program-specific materials.",
+    "topic": "International Students",
+    "link": "https://gradschool.umbc.edu/international/"
+  },
+  {
+    "question": "How do I request an I-20 from UMBC?",
+    "answer": "After receiving admission, international students must upload financial documentation, passport information, and complete the ISSS New Student I-20 Request through the online portal.",
+    "topic": "International Students",
+    "link": "https://isss.umbc.edu/new-students/"
+  },
+  {
+    "question": "What are the visa and immigration requirements at UMBC?",
+    "answer": "F-1 and J-1 students must maintain full-time enrollment, keep their SEVIS record active, update ISSS of any changes, and follow employment rules such as CPT and OPT eligibility.",
+    "topic": "International Students",
+    "link": "https://isss.umbc.edu/"
+  },
+  {
+    "question": "What is CPT at UMBC?",
+    "answer": "Curricular Practical Training (CPT) allows eligible international students to work off-campus in positions related to their field of study while enrolled at UMBC.",
+    "topic": "International Students",
+    "link": "https://isss.umbc.edu/f-1-students/cpt/"
+  },
+  {
+    "question": "What is OPT at UMBC?",
+    "answer": "Optional Practical Training (OPT) gives F-1 students up to 12 months of work authorization after graduation, with an additional 24-month STEM extension for eligible programs.",
+    "topic": "International Students",
+    "link": "https://isss.umbc.edu/f-1-students/opt/"
+  },
+  {
+    "question": "How many credits can graduate students take per semester?",
+    "answer": "Graduate students typically take 6–9 credits (2–3 courses) per semester. Enrollment above 9 credits usually requires advisor or program director approval.",
+    "topic": "Graduate Programs",
+    "link": "https://gradschool.umbc.edu/"
+  },
+  {
+    "question": "Is UMBC safe?",
+    "answer": "UMBC is located in a safe suburban area with a dedicated 24/7 police department and an escort service for walking on campus after dark.",
+    "topic": "Campus",
+    "link": "https://police.umbc.edu/services-resources/safety-escort-service/"
+  },
+  {
+    "question": "What dining options are available at UMBC?",
+    "answer": "UMBC offers multiple dining choices including True Grits, Starbucks, Chick-fil-A, Halal Shack, and the Commons food court. Vegetarian, vegan, halal, and allergen-friendly options are available.",
+    "topic": "Campus",
+    "link": "https://umbc.edu/undergraduate/life-at-umbc/where-youll-eat/"
+  },
+  {
+    "question": "Where can I find the UMBC IT support ticket page?",
+    "answer": "For technical issues like MyUMBC login, Blackboard, Wi-Fi, and password problems, students can submit an IT ticket using the campus help portal.",
+    "topic": "IT Support",
+    "link": "https://rtforms.umbc.edu/rt_myumbcHelpPage/"
+  },
+  {
+    "question": "How do I apply for a Social Security Number (SSN)?",
+    "answer": "International students can apply for an SSN after securing eligible employment and receiving an SSN support letter from ISSS.",
+    "topic": "International Students",
+    "link": "https://isss.umbc.edu/"
+  },
+  {
+    "question": "Where can I check AOK Library hours?",
+    "answer": "You can check daily and weekend hours for the AOK Library on the official library website.",
+    "topic": "Library",
+    "link": "https://library.umbc.edu/hours/"
+  }
+
+
+
+]

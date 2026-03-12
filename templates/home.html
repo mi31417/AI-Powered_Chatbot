@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>myUMBC</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <!-- ===== TOP NAV ===== -->
+    <header class="umbc-header">
+        <div class="umbc-header__left">
+            <div class="umbc-logo">
+                 <img src="{{ url_for('static', filename='images/Logo.png') }}" alt="myUMBC">
+            </div>
+
+            <div class="umbc-search">
+                 <img class="search-icon" src="{{ url_for('static', filename='images/Top search.png') }}" alt="">
+                 <span class="umbc-search__label">Search</span>
+            </div>
+
+        </div>
+
+        <nav class="umbc-nav">
+            <a href="#" class="umbc-nav__link">Profile</a>
+            <a href="#" class="umbc-nav__link">Guide</a>
+            <a href="#" class="umbc-nav__link">Events</a>
+            <a href="#" class="umbc-nav__link">Groups</a>
+            <a href="#" class="umbc-nav__link">Help</a>
+        </nav>
+
+        <div class="umbc-weather">
+            
+                <div>
+                    <span>Mostly Cloudy</span>
+                    <strong>54°</strong>
+                </div>
+        </div>
+
+    </header>
+
+    <!-- ===== MAIN LAYOUT ===== -->
+    <main class="umbc-main">
+        <section class="umbc-main__left">
+            <!-- Date + Events grid (simplified placeholder structure) -->
+            <section class="umbc-section">
+                <h2 class="umbc-section__title">Tuesday<br><span>December 9, 2025</span></h2>
+                <div class="umbc-events-grid">
+                    <div class="umbc-event-card" id ='event1'><img src="{{ url_for('static', filename='images/Event1.png') }}" alt="" /></div>
+                    <div class="umbc-event-card" id='event2'><img src="{{ url_for('static', filename='images/Event2.png') }}" alt="" /></div>
+                    <div class="umbc-event-card" id='event3'><img src="{{ url_for('static', filename='images/Event3.png') }}" alt="" /></div>
+                    <div class="umbc-event-card" id='event4'><img src="{{ url_for('static', filename='images/Event4.png') }}" alt="" /></div>
+                    <div class="umbc-event-card"id='event5'><img src="{{ url_for('static', filename='images/Event5.png' )}}" alt="" /></div>
+                    <div class="umbc-event-card" id='event6'><img src="{{ url_for('static', filename='images/Event6.png') }}" alt="" /></div>
+                </div>
+            </section>
+
+            <!-- Trending -->
+            <section class="umbc-section">
+                <h3 class="umbc-section__subtitle">Trending</h3>
+                <ul class="umbc-list">
+                    <li class="umbc-list__item">
+                        <div class="umbc-list__avatar">
+                            <div class="umbc-list__avatar">
+                                <img src="{{ url_for('static', filename='images/Trending 1.png') }}" alt="Trending">
+                            </div>
+
+                        </div>
+                        <div>
+                            <a href="#" class="umbc-list__title">Honoring Alice Wong (1974–2025)</a>
+                            <div class="umbc-list__meta">Office of Accessibility &amp; Disability Services • 12 paws</div>
+                        </div>
+                    </li>
+                    <li class="umbc-list__item">
+                        <div class="umbc-list__avatar">
+                            <div class="umbc-list__avatar">
+                                <img src="{{ url_for('static', filename='images/Trending 2.png') }}" alt="Trending">
+                            </div>
+
+                        </div>
+                        <div>
+                            <a href="#" class="umbc-list__title">Meet Thalia Arora</a>
+                            <div class="umbc-list__meta">Individual Study • 9 paws</div>
+                        </div>
+                    </li>
+                </ul>
+            </section>
+        </section>
+
+        <!-- Discussion Groups column (placeholder) -->
+        <aside class="umbc-main__right">
+            <section class="umbc-section">
+                <h3 class="umbc-section__subtitle">Discussion Groups</h3>
+                <ul class="umbc-list umbc-list--compact">
+                    <li class="umbc-list__item">
+                        <div class="umbc-list__avatar">
+                            <div class="umbc-list__avatar">
+                                <img src="{{ url_for('static', filename='images/academics discussion group.png') }}" alt="Trending">
+                            </div>
+                           
+
+                        </div>
+                        <span>Academics</span>
+                    </li>
+                    <li class="umbc-list__item">
+                        <div class="umbc-list__avatar">
+                             <div class="umbc-list__avatar">
+                                <img src="{{ url_for('static', filename='images/campus life discussion group.png') }}" alt="Trending">
+                            </div>
+
+                        </div>
+                        <span>Campus Life</span>
+                    </li>
+                    <li class="umbc-list__item">
+                        <div class="umbc-list__avatar">
+                             <div class="umbc-list__avatar">
+                                <img src="{{ url_for('static', filename='images/Classifieds discussion group.png') }}" alt="Trending">
+                            </div>
+
+                        </div>
+                        <span>Classifieds</span>
+                    </li>
+                    <li class="umbc-list__item">
+                        <div class="umbc-list__avatar">
+                             <div class="umbc-list__avatar">
+                                <img src="{{ url_for('static', filename='images/Trending 1.png') }}" alt="Trending">
+                            </div>
+
+                        </div>
+                        <span>Current Events</span>
+                    </li>
+                </ul>
+            </section>
+        </aside>
+    </main>
+
+    <!-- ===== FOOTER (shortened) ===== -->
+    <footer class="umbc-footer">
+        <p>© 2025 University of Maryland, Baltimore County.</p>
+        <p>Use of Student Data • Equal Opportunity • Safety Resources</p>
+    </footer>
+
+    <!-- ===== FLOATING CHAT ICON ===== -->
+    <button id="chat-toggle" class="chat-fab" aria-label="Open chat">
+        <img src="{{ url_for('static', filename='images/chatbotbutton.png') }}" alt="" />
+    </button>
+
+    <!-- ===== CHAT WIDGET ===== -->
+    <section id="chat-widget" class="chat-widget hidden" aria-label="myUMBC Assistant">
+        <header class="chat-widget__header">
+            <div class="chat-widget__brand">
+                <div class="chat-widget__logo">
+                    <img src="{{ url_for('static', filename='images/chat bot logo.png') }}" alt="">
+                </div>
+                <div>
+                    <h2>myUMBC Assistant</h2>
+                    <p>Your friendly campus companion</p>
+                </div>
+            </div>
+            <button id="chat-close" class="chat-widget__close">✕</button>
+        </header>
+
+        <div class="chat-widget__content">
+            <!-- Quick actions -->
+            <section class="chat-quick-actions">
+                <h4>Quick Actions</h4>
+                <div class="chat-quick-actions__grid">
+    <button class="qa-btn" data-link="https://isss-portal.umbc.edu/">ISSS Portal</button>
+    <button class="qa-btn" data-link="https://umbc.libcal.com/spaces?lid=662&gid=1199">Study Space</button>
+    <button class="qa-btn" data-link="https://umbc.edu/wp-content/uploads/2024/12/2024-CAMPUS-MAP-2.pdf">Campus Map</button>
+    <button class="qa-btn" data-link="https://blackboard.umbc.edu/ultra/course">Blackboard</button>
+    <button class="qa-btn" data-link="https://transit.umbc.edu/schedules/">UMBC Transit</button>
+    <button class="qa-btn" data-link="https://app.joinhandshake.com/explore">Handshake</button>
+</div>
+
+            </section>
+
+            <!-- Conversation area -->
+            <section id="chat-body" class="chat-thread">
+                <article class="chat-message chat-message--bot">
+                    <div class="chat-message__avatar">
+                        <img src="{{ url_for('static', filename='images/AI Chat bot talking .png') }}" alt="">
+                    </div>
+                    <div class="chat-message__bubble">
+                        <p>Hi there! 👋 I’m your myUMBC assistant. I’m here to help you with campus information, events, academics, and more. How can I assist you today?</p>
+                    </div>
+                </article>
+            </section>
+        </div>
+
+        <!-- Input -->
+        <footer class="chat-widget__footer">
+            <input id="user-input" class="chat-input" type="text"
+                   placeholder="Ask me anything about UMBC…" />
+            <button id="send-btn" class="chat-send-btn" aria-label="Send message">
+                <img src="{{ url_for('static', filename='images/AI CHAT SEND BUTTON.png') }}" alt="">
+            </button>
+        </footer>
+
+        <div class="chat-widget__helpdesk">
+            Need immediate assistance? Contact UMBC Help Desk at (410) 455-3838
+        </div>
+    </section>
+  
+
+    <!-- Optional: if you already have chat.js, just load it here.
+         For now you can ignore JS; this file is fully valid without it. -->
+    <script src="{{ url_for('static', filename='chat.js') }}"></script>
+</body>
+</html>
